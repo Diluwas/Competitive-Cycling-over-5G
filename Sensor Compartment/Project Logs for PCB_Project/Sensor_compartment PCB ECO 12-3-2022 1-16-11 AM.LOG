@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=J7 NewDesignator=J1
+Added Member To Class: ClassName=Sensor_compartment_Schematic Member=Component P1 Header 8
+Added Room: Name=Sensor_compartment_Schematic

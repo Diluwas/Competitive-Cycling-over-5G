@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\FYP\Speed sensing\PCB design\PCB_Project\Sensor_compartment.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=sensor_compartment-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=sensor_compartment-nonplated.txt|DrillLayers=gtl,gbl
