@@ -1,0 +1,140 @@
+General Commands
+
+# To list the images
+docker images
+
+# To list running containers
+docker ps
+
+# To list all existing containers
+docker ps -a
+
+# To find a file in the current and sub directories
+find . -name "file name"
+
+# Deleting a image
+docker image rm -f "image name"               $ Here -f option for forcing
+
+# To create a container using an image
+docker run -d --name <container-name> --net <network-name> -p <port-allocation> <image-name>           $ Here -d for detached mode meaning terminal does not go into the container
+
+# To start a container after creating
+docker start <container name>
+
+# To stop a container
+docker stop <container name>
+
+# To remove a container
+docker rm <container name>
+
+# To see the DNS servers
+On Ubuntu 22
+resolvectl status
+
+On Ubuntu 18
+systemd-resolve --status
+
+
+---------------------------------------------------------------------------------------------------------------
+Story of Redeploying Containers
+
+# When redeploying containers under any situation, the network settings of them get changed.
+
+# It looks like when stoping and restarting nothing happens to network settings. 
+   
+   But above one was tested under the condition of keeping the VM On
+   You have to check this with restarting the VM and Host machine as well.
+
+
+----------------------------------------------------------------------------------------------------------------
+Main Commands
+
+	# Creating the 5G Core
+	
+[Here the file-name is docker-compose-basic-nrf.yaml]
+
+python3 ./core-network.py --type start-basic --scenario 1
+OR
+docker-compose -f <file-name> up -d
+
+-->I think I should use the python script to deploy the core because the script does lot of things like checking the health status, etc in addtion to just creating containers properly.
+
+#To check their health status and wait till the time they are healthy, you ctrl + c to exit watch command
+watch docker-compose -f <file-name> ps -a
+
+#To log into a container
+docker exec -it <container-name> <shell(in windows it is powershell, in linux it can be sh, bash, etc)>
+
+#To stop and again start the containers
+docker-compose -f <file-name> stop
+docker-compose -f <file-name> start
+
+However this command does not work properly with gnbsim.yaml file. May be an issue of the yaml file.
+So use these only for 5G Core components
+
+#To undeploy the containers with zero graceful period
+docker-compose -f <file-name> down -t 0
+OR using the script
+python3 ./core-network.py --type stop-basic --scenario 1
+
+
+
+	# Creating gNodeBs and UEs
+	
+docker-compose -f docker-compose-gnbsim.yaml up -d gnbsim
+sleep 40
+docker-compose -f docker-compose-gnbsim.yaml ps -a
+
+# To get the allocated IP address for UE
+docker logs gnbsim 2>&1 | grep "UE address:"
+
+# Pin test
+docker exec <container-name> ping -c 10 google.com
+
+#To verify all gNB and UE are resgistered at the Core
+docker logs oai-amf
+
+#To undeploy
+docker-compose -f docker-compose-gnbsim.yaml down -t 0
+
+
+
+       # Dealing With Docker Volumes
+
+Refer building and running your first docker app course by Dan Wahlin in Pluralsight
+
+
+
+      # Installing Ping Tool in a Docker Container
+
+apt install iputils-ping
+
+
+
+     # Deploying the Nginx Server as a Container
+
+docker pull tiangolo/nginx-rtmp
+docker run -d -p 1935:1935 --name nginx-rtmp tiangolo/nginx-rtmp
+
+# To install a text editor
+apt install nano
+
+
+
+      # Using Ffmpeg to Convert and Send to the Nginx Server
+
+ffmpeg -re -r 60 -i "<Video file name with the extension>" -c:v copy -c:a aac -ar 44100 -ac 1 -f flv rtmp://<Host IP>/live/<Any word as the key>
+
+
+
+     # Docker Networking Commands
+
+# To list docker networks
+docker network ls
+
+# To see virtual ethernet interfaces that are connected to docker bridge type network interfaces
+bridge link
+
+# To see information about a particular docker network
+docker inspect <docker network name>
+
