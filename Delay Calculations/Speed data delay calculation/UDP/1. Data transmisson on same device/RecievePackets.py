@@ -1,5 +1,5 @@
 import socket
-myIP = "192.168.1.102"
+myIP = "localhost"
 myPort = 5005
 socket_reciver = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 socket_reciver.bind((myIP, myPort))
