@@ -1,6 +1,6 @@
 import time
 import paho.mqtt.client as paho
-broker="test.mosquitto.org"
+broker="192.168.8.130"
 client= paho.Client("client-002")
 
 print("connecting to broker ",broker)
