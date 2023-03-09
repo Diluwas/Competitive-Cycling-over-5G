@@ -7,7 +7,6 @@ print("connecting to broker ",broker)
 client.connect(broker, 1883)
 
 def on_message(client, userdata, message):
-    time.sleep(1)
     print("received message =",str(message.payload.decode("utf-8")))
 
 
