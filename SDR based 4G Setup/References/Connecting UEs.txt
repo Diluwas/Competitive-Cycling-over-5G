@@ -1,0 +1,9 @@
+# You need a mobile phone that supports that cumucore sim card.
+  Most of mobile phones may support that. But iphones do not
+
+Steps
+
+1. Insert the sim card
+2. The phone automatically might get connected to the USRP B210 device
+   If does not, go the mobile-->mobile networks[something like that through the settings]. Then you will see a related network name
+  
