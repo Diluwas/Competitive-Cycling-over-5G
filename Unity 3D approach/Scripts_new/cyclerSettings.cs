@@ -8,11 +8,15 @@ public class cyclerSettings :MonoBehaviour
     private string userName;
     private bool isMQTT;
     private bool isUDP;
+    private bool isHost;
+    private bool isClient;
     private string gameServer;
     private string videoServer;
 
     public Toggle MQTT;
     public Toggle UDP;
+    public Toggle Host;
+    public Toggle Client;
     public InputField UserName;
     public InputField GameServer;
     public InputField VideoServer;
@@ -41,8 +45,27 @@ public class cyclerSettings :MonoBehaviour
             isUDP = false;
             UserSettings.IsUDP = false;
         }
+
+        if(Host.isOn){
+            isHost = true;
+            UserSettings.IsHost = true;
+        }
+        else{
+            isClient = false;
+            UserSettings.IsClient = false;
+        }
+
+        if(Client.isOn){
+            isClient = true;
+            UserSettings.IsClient = true;
+        }
+        else{
+            isHost = false;
+            UserSettings.IsHost = false;
+        }
+
         
-        if((isMQTT && isUDP) || !(isMQTT || isUDP)){     //if((isMQTT && isUDP) || !(isMQTT || isUDP) || UserName.text == ""){
+        if((isMQTT && isUDP) || !(isMQTT || isUDP) || (isHost && isClient) || !(isHost || isClient)){     //if((isMQTT && isUDP) || !(isMQTT || isUDP) || UserName.text == ""){
             errorPopup.SetActive(true);
             return;
         }
@@ -54,7 +77,7 @@ public class cyclerSettings :MonoBehaviour
             UserSettings.VideoServer = videoServer;
         }
         else{
-            videoServer = "http://192.168.1.102:8080/hls/bicycle.m3u8";//http://192.168.8.130:8080/hls/bicycle.m3u8
+            videoServer = "http://192.168.1.103:8080/hls/bicycle.m3u8";//http://192.168.8.130:8080/hls/bicycle.m3u8
             UserSettings.VideoServer = videoServer;
         }
 
@@ -73,7 +96,10 @@ public class cyclerSettings :MonoBehaviour
                 UserSettings.GameServer = gameServer;
             }
         }
+
+
         Debug.Log("isMQTT: "+UserSettings.IsMQTT+"\nisUDP: "+UserSettings.IsUDP+"\nUsername: "+UserSettings.UserName
-        +"\nVideo server IP: "+UserSettings.VideoServer+"\nGame server: "+UserSettings.GameServer);
+        +"\nVideo server IP: "+UserSettings.VideoServer+"\nGame server: "+UserSettings.GameServer+"\nisHost: "+
+        UserSettings.IsHost+"\nisClient: "+UserSettings.IsClient);
     }
 }
