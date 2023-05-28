@@ -1,0 +1,28 @@
+This includes what we did in the dialog PC since initial kind of stuff had been already done there.
+
+---Steps---
+
+# SRSRAN 4G should be installed.
+
+# After that, copy the config files to "~/.config/srsran"
+
+# To run the SRS EPC as the core network, run the following commands;
+
+cd ~/.config/srsran
+sudo srsepc epc.conf
+
+# To run the ENB as the EnodeB, plug the USRP B210 device to the computer and run the following commands;
+
+cd ~/.config/srsran
+sudo srsenb enb.conf
+'
+#copy ip_route.sh file located in downloads to path "~/.config/srsran"
+
+#Run the below commands
+cd ~/.config/srsran
+sudo bash ./ip_route.sh
+
+# Insert the simcard to the UE(mobile phone) and connect it to the above deployed 4G network
+
+
+
