@@ -18,8 +18,10 @@ public class VideoMediaPlayer : MonoBehaviour
 
     public M2MqttUnityClient mqtt_client;
 
-    private int checkedForConnection = 0;
     public mqttReceiver _eventSender;
+
+    private float maxPlayback = 3.0f;
+    private float playbackSpeed = 1.0f;
 
     public GameObject ConnectionPopUpError;
     void Start(){
@@ -39,15 +41,26 @@ public class VideoMediaPlayer : MonoBehaviour
 
     private void OnMessageArrivedHandler(string newMsg){
 
-        if(newMsg != null && functionExecuted == false){
+        if(newMsg != null){
             playerSpeed = float.Parse(newMsg);
-            float rate = mediaPlayer.PlaybackRate;
-            mediaPlayer.PlaybackRate = 1 * playerSpeed;
-            functionExecuted = true;
-            return;
+            Debug.Log("player speed: "+ playerSpeed);
+            if (playerSpeed > 12.5){
+                playbackSpeed = maxPlayback;
+            }
+            else if(playerSpeed > 0.1){
+                playbackSpeed = (float)((playerSpeed * maxPlayback)/12.5);
+            }
+            else{
+                playbackSpeed = 0;
+            }
+            //float rate = mediaPlayer.PlaybackRate;
+            
+            //functionExecuted = true;
+            //return;
         }
         else{
-            playerSpeed = 1;
+            playbackSpeed = 1;
+            Debug.Log("elplayer speed: "+ playbackSpeed);
             return;
         }
     }
@@ -59,8 +72,8 @@ public class VideoMediaPlayer : MonoBehaviour
         else{
             ConnectionPopUpError.SetActive(true);
         }
-        _eventSender.OnMessageArrived += OnMessageArrivedHandler;
-        functionExecuted = false;
+        mediaPlayer.PlaybackRate = 1 * playbackSpeed;
+        //functionExecuted = false;
     }
 
     public void returnToPreviousScene(){

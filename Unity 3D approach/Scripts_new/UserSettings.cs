@@ -7,6 +7,8 @@ public class UserSettings : MonoBehaviour
     private static string userName;
     private static bool isMQTT;
     private static bool isUDP;
+    private static bool isHost;
+    private static bool isClient;
     private static string gameServer;
     private static string videoServer;
     
@@ -34,6 +36,24 @@ public class UserSettings : MonoBehaviour
         }
         get{
             return isUDP;
+        }
+    }
+
+    public static bool IsHost{
+        set{
+            isHost =  value;
+        }
+        get{
+            return isHost;
+        }
+    }
+
+    public static bool IsClient{
+        set{
+            isClient = value;
+        }
+        get{
+            return isClient;
         }
     }
 
