@@ -1,0 +1,4 @@
+# Try to understand the parameters in the user_db.csv file
+
+# Although I changed the Quectel RM500Q-DL device, it was not required to add a new line in the user_db file or change anything. 
+  In both devices OWN number value was same. That is what we are using for the IMSI field in the user_db.csv
