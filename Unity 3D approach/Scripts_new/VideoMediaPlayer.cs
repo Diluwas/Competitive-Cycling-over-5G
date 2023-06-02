@@ -1,11 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
 using RenderHeads.Media.AVProVideo;
 using uPLibrary.Networking.M2Mqtt;
 using uPLibrary.Networking.M2Mqtt.Messages;
 using M2MqttUnity;
 using UnityEngine.SceneManagement;
+using System.Text;
 
 public class VideoMediaPlayer : MonoBehaviour
 {
@@ -21,12 +23,23 @@ public class VideoMediaPlayer : MonoBehaviour
     public mqttReceiver _eventSender;
 
     private float maxPlayback = 3.0f;
-    private float playbackSpeed = 1.0f;
+    private float playbackSpeed = 0f;
+    private MqttClient client;
+    private string myTopic; //to recieve data from ESP32
+    private string sendTopic; //for dulsara delay test purposes
 
     public GameObject ConnectionPopUpError;
     void Start(){
         // Opening media URL via a Path
-        mqtt_client.brokerAddress = UserSettings.GameServer;
+        myTopic = "VRcycling/"+UserSettings.UserId+"/Speed";
+        sendTopic = "VRcycling/test2";
+
+        client = new MqttClient(UserSettings.GameServer); 
+        client.MqttMsgPublishReceived += client_MqttMsgPublishReceived;
+        string clientId = Guid.NewGuid().ToString();
+        client.Connect(clientId);
+        client.Subscribe(new string[] {myTopic}, new byte[] { MqttMsgBase.QOS_LEVEL_AT_MOST_ONCE });
+
         string videoPath = UserSettings.VideoServer;
         Debug.Log("videoPath : " + videoPath);
         bool isOpening = mediaPlayer.OpenMedia(new MediaPath(videoPath, MediaPathType.AbsolutePathOrURL), autoPlay:true);
@@ -34,16 +47,14 @@ public class VideoMediaPlayer : MonoBehaviour
         MediaHints hints = mediaPlayer.FallbackMediaHints;
         hints.stereoPacking = StereoPacking.TopBottom;
         mediaPlayer.FallbackMediaHints = hints;
-
-        _eventSender.OnMessageArrived += OnMessageArrivedHandler;
         //Debug.Log("1: " + playerSpeed);
     }
 
-    private void OnMessageArrivedHandler(string newMsg){
-
+    private void client_MqttMsgPublishReceived(object sender, MqttMsgPublishEventArgs e){
+        string newMsg = Encoding.UTF8.GetString(e.Message);
         if(newMsg != null){
             playerSpeed = float.Parse(newMsg);
-            Debug.Log("player speed: "+ playerSpeed);
+            //Debug.Log("player speed: "+ playerSpeed);
             if (playerSpeed > 12.5){
                 playbackSpeed = maxPlayback;
             }
@@ -57,6 +68,7 @@ public class VideoMediaPlayer : MonoBehaviour
             
             //functionExecuted = true;
             //return;
+            client.Publish(sendTopic, Encoding.UTF8.GetBytes(playerSpeed.ToString()), MqttMsgBase.QOS_LEVEL_AT_MOST_ONCE, false);
         }
         else{
             playbackSpeed = 1;
@@ -66,13 +78,14 @@ public class VideoMediaPlayer : MonoBehaviour
     }
 
     public void Update(){
-        if(_eventSender.isConnected){
+        if(client.IsConnected){
             ConnectionPopUpError.SetActive(false);
         }
         else{
             ConnectionPopUpError.SetActive(true);
         }
         mediaPlayer.PlaybackRate = 1 * playbackSpeed;
+
         //functionExecuted = false;
     }
 

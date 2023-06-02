@@ -23,9 +23,7 @@ public class cyclerSettings :MonoBehaviour
     public GameObject errorPopup;
     public void updateCyclerSettings(){
 
-        userName = "ABC";
-        //userName = UserName.text;
-        UserSettings.UserName = userName;
+        UserSettings.UserName = UserName.text;
 
         //check for which protocol to use
         if(MQTT.isOn){
@@ -49,23 +47,27 @@ public class cyclerSettings :MonoBehaviour
         if(Host.isOn){
             isHost = true;
             UserSettings.IsHost = true;
-        }
-        else{
-            isClient = false;
-            UserSettings.IsClient = false;
-        }
-
-        if(Client.isOn){
-            isClient = true;
-            UserSettings.IsClient = true;
+            UserSettings.UserId = "UserA";
+            UserSettings.RivalUserId = "UserB";
         }
         else{
             isHost = false;
             UserSettings.IsHost = false;
         }
 
+        if(Client.isOn){
+            isClient = true;
+            UserSettings.IsClient = true;
+            UserSettings.UserId = "UserB";
+            UserSettings.RivalUserId = "UserA";
+        }
+        else{
+            isClient = false;
+            UserSettings.IsClient = false;
+        }
+
         
-        if((isMQTT && isUDP) || !(isMQTT || isUDP) || (isHost && isClient) || !(isHost || isClient)){     //if((isMQTT && isUDP) || !(isMQTT || isUDP) || UserName.text == ""){
+        if((isMQTT && isUDP) || !(isMQTT || isUDP) || (isHost && isClient) || !(isHost || isClient) || UserName.text == ""){
             errorPopup.SetActive(true);
             return;
         }
@@ -73,12 +75,12 @@ public class cyclerSettings :MonoBehaviour
         //check for local media server IP
         if(VideoServer.text != ""){
             videoServer = VideoServer.text;
-            videoServer = "http://"+videoServer+":8080/hls/bicycle.m3u8";
+            videoServer = "http://"+videoServer+":8080/trip1/1080P.m3u8";
             UserSettings.VideoServer = videoServer;
         }
         else{
-            videoServer = "http://192.168.1.103:8080/hls/bicycle.m3u8";//http://192.168.8.130:8080/hls/bicycle.m3u8
-            UserSettings.VideoServer = videoServer;
+            videoServer = "http://192.168.8.130:8080/trip2/bicycle.m3u8";
+            UserSettings.VideoServer = videoServer;   
         }
 
         //GameServer name or IP
@@ -97,9 +99,9 @@ public class cyclerSettings :MonoBehaviour
             }
         }
 
-
         Debug.Log("isMQTT: "+UserSettings.IsMQTT+"\nisUDP: "+UserSettings.IsUDP+"\nUsername: "+UserSettings.UserName
-        +"\nVideo server IP: "+UserSettings.VideoServer+"\nGame server: "+UserSettings.GameServer+"\nisHost: "+
+        +"\nRival Username: "+UserSettings.RivalUserName +"\nUser id: "+UserSettings.UserId
+        +"\nRival id: "+UserSettings.RivalUserId+"\nVideo server IP: "+UserSettings.VideoServer+"\nGame server: "+UserSettings.GameServer+"\nisHost: "+
         UserSettings.IsHost+"\nisClient: "+UserSettings.IsClient);
     }
 }

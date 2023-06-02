@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 public class Timer : MonoBehaviour
 {
     // Start is called before the first frame update
-    float countdown = 10;
+    float countdown = 5;
     public Text timerTime;
     public GameObject gameTimer;
     void Start()

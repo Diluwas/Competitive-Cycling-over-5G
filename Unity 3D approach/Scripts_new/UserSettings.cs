@@ -11,6 +11,9 @@ public class UserSettings : MonoBehaviour
     private static bool isClient;
     private static string gameServer;
     private static string videoServer;
+    private static string rivalUserName;
+    private static string userId;
+    private static string rivalUserId;
     
     public static string UserName{
         set{
@@ -18,6 +21,33 @@ public class UserSettings : MonoBehaviour
         }
         get{
             return userName;
+        }
+    }
+
+    public static string UserId{
+        set{
+            userId = value;
+        }
+        get{
+            return userId;
+        }
+    }
+
+    public static string RivalUserId{
+        set{
+            rivalUserId = value;
+        }
+        get{
+            return rivalUserId;
+        }
+    }
+
+    public static string RivalUserName{
+        set{
+            rivalUserName = value;
+        }
+        get{
+            return rivalUserName;
         }
     }
 
