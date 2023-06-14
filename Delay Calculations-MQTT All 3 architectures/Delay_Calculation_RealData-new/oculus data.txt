@@ -1,0 +1,4308 @@
+18:07:18.235
+Unity
+player speed: 0.2
+18:07:18.235
+Unity
+player speed: 0.22
+18:07:18.429
+Unity
+player speed: 0.23
+18:07:18.430
+Unity
+player speed: 0.24
+18:07:18.638
+Unity
+player speed: 0.26
+18:07:18.652
+Unity
+player speed: 0.27
+18:07:18.861
+Unity
+player speed: 0.28
+18:07:18.862
+Unity
+player speed: 0.3
+18:07:19.154
+Unity
+player speed: 0.32
+18:07:19.154
+Unity
+player speed: 0.34
+18:07:19.155
+Unity
+player speed: 0.36
+18:07:19.418
+Unity
+player speed: 0.4
+18:07:19.419
+Unity
+player speed: 0.52
+18:07:19.683
+Unity
+player speed: 0.55
+18:07:19.683
+Unity
+player speed: 0.94
+18:07:19.684
+Unity
+player speed: 1.46
+18:07:19.989
+Unity
+player speed: 1.82
+18:07:19.990
+Unity
+player speed: 1.91
+18:07:19.991
+Unity
+player speed: 1.93
+18:07:20.282
+Unity
+player speed: 2.01
+18:07:20.282
+Unity
+player speed: 2.36
+18:07:20.283
+Unity
+player speed: 2.54
+18:07:20.476
+Unity
+player speed: 2.82
+18:07:20.477
+Unity
+player speed: 2.94
+18:07:20.686
+Unity
+player speed: 3.06
+18:07:20.686
+Unity
+player speed: 3.14
+18:07:20.963
+Unity
+player speed: 3.17
+18:07:20.964
+Unity
+player speed: 3.47
+18:07:21.214
+Unity
+player speed: 3.43
+18:07:21.214
+Unity
+player speed: 3.61
+18:07:21.215
+Unity
+player speed: 3.91
+18:07:21.423
+Unity
+player speed: 4.03
+18:07:21.424
+Unity
+player speed: 4.11
+18:07:21.771
+Unity
+player speed: 4.23
+18:07:21.772
+Unity
+player speed: 4.22
+18:07:21.772
+Unity
+player speed: 4.12
+18:07:22.049
+Unity
+player speed: 4.13
+18:07:22.050
+Unity
+player speed: 4.32
+18:07:22.050
+Unity
+player speed: 4.29
+18:07:22.355
+Unity
+player speed: 4.22
+18:07:22.356
+Unity
+player speed: 4.35
+18:07:22.356
+Unity
+player speed: 4.48
+18:07:22.357
+Unity
+player speed: 4.42
+18:07:22.662
+Unity
+player speed: 4.35
+18:07:22.663
+Unity
+player speed: 4.38
+18:07:22.663
+Unity
+player speed: 4.45
+18:07:22.955
+Unity
+player speed: 4.36
+18:07:22.955
+Unity
+player speed: 4.5
+18:07:22.956
+Unity
+player speed: 4.67
+18:07:23.136
+Unity
+player speed: 4.6
+18:07:23.163
+Unity
+player speed: 4.59
+18:07:23.345
+Unity
+player speed: 4.66
+18:07:23.345
+Unity
+player speed: 4.59
+18:07:23.554
+Unity
+player speed: 4.54
+18:07:23.554
+Unity
+player speed: 4.81
+18:07:23.874
+Unity
+player speed: 4.85
+18:07:23.875
+Unity
+player speed: 4.77
+18:07:23.875
+Unity
+player speed: 4.76
+18:07:24.180
+Unity
+player speed: 4.84
+18:07:24.181
+Unity
+player speed: 4.76
+18:07:24.182
+Unity
+player speed: 4.7
+18:07:24.389
+Unity
+player speed: 4.8
+18:07:24.390
+Unity
+player speed: 4.77
+18:07:24.682
+Unity
+player speed: 4.72
+18:07:24.682
+Unity
+player speed: 4.75
+18:07:24.683
+Unity
+player speed: 4.86
+18:07:24.891
+Unity
+player speed: 4.79
+18:07:24.905
+Unity
+player speed: 4.76
+18:07:25.099
+Unity
+player speed: 4.95
+18:07:25.100
+Unity
+player speed: 4.91
+18:07:25.322
+Unity
+player speed: 4.85
+18:07:25.323
+Unity
+player speed: 4.88
+18:07:25.531
+Unity
+player speed: 4.9
+18:07:25.532
+Unity
+player speed: 4.83
+18:07:25.837
+Unity
+player speed: 4.91
+18:07:25.838
+Unity
+player speed: 5.02
+18:07:25.838
+Unity
+player speed: 4.95
+18:07:26.130
+Unity
+player speed: 4.87
+18:07:26.131
+Unity
+player speed: 4.98
+18:07:26.131
+Unity
+player speed: 4.94
+18:07:26.436
+Unity
+player speed: 5.09
+18:07:26.437
+Unity
+player speed: 5.19
+18:07:26.437
+Unity
+player speed: 5.14
+18:07:26.438
+Unity
+player speed: 5.15
+18:07:26.743
+Unity
+player speed: 5.18
+18:07:26.743
+Unity
+player speed: 5.12
+18:07:26.744
+Unity
+player speed: 5.13
+18:07:27.035
+Unity
+player speed: 5.26
+18:07:27.049
+Unity
+player speed: 5.28
+18:07:27.050
+Unity
+player speed: 5.31
+18:07:27.244
+Unity
+player speed: 5.26
+18:07:27.244
+Unity
+player speed: 5.29
+18:07:27.439
+Unity
+player speed: 5.24
+18:07:27.453
+Unity
+player speed: 5.28
+18:07:27.661
+Unity
+player speed: 5.22
+18:07:27.662
+Unity
+player speed: 5.21
+18:07:27.968
+Unity
+player speed: 5.32
+18:07:27.969
+Unity
+player speed: 5.28
+18:07:27.969
+Unity
+player speed: 5.26
+18:07:28.163
+Unity
+player speed: 5.31
+18:07:28.164
+Unity
+player speed: 5.25
+18:07:28.386
+Unity
+player speed: 5.22
+18:07:28.386
+Unity
+player speed: 5.28
+18:07:28.692
+Unity
+player speed: 5.23
+18:07:28.693
+Unity
+player speed: 5.18
+18:07:28.693
+Unity
+player speed: 5.25
+18:07:29.026
+Unity
+player speed: 5.21
+18:07:29.040
+Unity
+player speed: 5.15
+18:07:29.041
+Unity
+player speed: 5.23
+18:07:29.291
+Unity
+player speed: 5.18
+18:07:29.305
+Unity
+player speed: 5.12
+18:07:29.305
+Unity
+player speed: 5.19
+18:07:29.513
+Unity
+player speed: 5.15
+18:07:29.528
+Unity
+player speed: 5.1
+18:07:29.834
+Unity
+player speed: 5.15
+18:07:29.834
+Unity
+player speed: 5.12
+18:07:29.835
+Unity
+player speed: 5.08
+18:07:30.112
+Unity
+player speed: 5.11
+18:07:30.113
+Unity
+player speed: 5.1
+18:07:30.113
+Unity
+player speed: 5.11
+18:07:30.307
+Unity
+player speed: 5.18
+18:07:30.308
+Unity
+player speed: 5.16
+18:07:30.515
+Unity
+player speed: 5.15
+18:07:30.529
+Unity
+player speed: 5.19
+18:07:30.725
+Unity
+player speed: 5.15
+18:07:30.726
+Unity
+player speed: 5.12
+18:07:30.933
+Unity
+player speed: 5.21
+18:07:30.934
+Unity
+player speed: 5.23
+18:07:30.934
+Unity
+player speed: 5.18
+18:07:31.156
+Unity
+player speed: 5.26
+18:07:31.157
+Unity
+player speed: 5.28
+18:07:31.476
+Unity
+player speed: 5.24
+18:07:31.477
+Unity
+player speed: 5.31
+18:07:31.478
+Unity
+player speed: 5.27
+18:07:31.741
+Unity
+player speed: 5.22
+18:07:31.742
+Unity
+player speed: 5.29
+18:07:31.742
+Unity
+player speed: 5.25
+18:07:31.950
+Unity
+player speed: 5.2
+18:07:31.950
+Unity
+player speed: 5.28
+18:07:32.201
+Unity
+player speed: 5.32
+18:07:32.201
+Unity
+player speed: 5.29
+18:07:32.479
+Unity
+player speed: 5.36
+18:07:32.479
+Unity
+player speed: 5.37
+18:07:32.480
+Unity
+player speed: 5.34
+18:07:32.799
+Unity
+player speed: 5.38
+18:07:32.800
+Unity
+player speed: 5.34
+18:07:32.800
+Unity
+player speed: 5.3
+18:07:33.092
+Unity
+player speed: 5.35
+18:07:33.092
+Unity
+player speed: 5.3
+18:07:33.093
+Unity
+player speed: 5.25
+18:07:33.273
+Unity
+player speed: 5.31
+18:07:33.273
+Unity
+player speed: 5.25
+18:07:33.496
+Unity
+player speed: 5.2
+18:07:33.496
+Unity
+player speed: 5.27
+18:07:33.705
+Unity
+player speed: 5.21
+18:07:33.705
+Unity
+player speed: 5.16
+18:07:34.025
+Unity
+player speed: 5.4
+18:07:34.025
+Unity
+player speed: 5.36
+18:07:34.026
+Unity
+player speed: 5.41
+18:07:34.317
+Unity
+player speed: 5.4
+18:07:34.318
+Unity
+player speed: 5.43
+18:07:34.319
+Unity
+player speed: 5.47
+18:07:34.512
+Unity
+player speed: 5.5
+18:07:34.513
+Unity
+player speed: 5.51
+18:07:34.721
+Unity
+player speed: 5.5
+18:07:34.721
+Unity
+player speed: 5.52
+18:07:34.916
+Unity
+player speed: 5.53
+18:07:34.916
+Unity
+player speed: 5.54
+18:08:10.121
+Unity
+player speed: 5.53
+18:08:10.122
+Unity
+player speed: 5.55
+18:08:10.123
+Unity
+player speed: 5.54
+18:08:10.123
+Unity
+player speed: 5.55
+18:08:10.124
+Unity
+player speed: 5.54
+18:08:10.124
+Unity
+player speed: 5.53
+18:08:10.125
+Unity
+player speed: 5.52
+18:08:10.126
+Unity
+player speed: 5.54
+18:08:10.126
+Unity
+player speed: 5.53
+18:08:10.127
+Unity
+player speed: 5.54
+18:08:10.127
+Unity
+player speed: 5.55
+18:08:10.128
+Unity
+player speed: 5.54
+18:08:10.128
+Unity
+player speed: 5.53
+18:08:10.129
+Unity
+player speed: 5.54
+18:08:10.129
+Unity
+player speed: 5.53
+18:08:10.130
+Unity
+player speed: 5.52
+18:08:10.131
+Unity
+player speed: 5.53
+18:08:10.131
+Unity
+player speed: 5.52
+18:08:10.132
+Unity
+player speed: 5.51
+18:08:10.132
+Unity
+player speed: 5.52
+18:08:10.133
+Unity
+player speed: 5.51
+18:08:10.133
+Unity
+player speed: 5.5
+18:08:10.134
+Unity
+player speed: 5.52
+18:08:10.134
+Unity
+player speed: 5.54
+18:08:10.135
+Unity
+player speed: 5.55
+18:08:10.136
+Unity
+player speed: 5.56
+18:08:10.136
+Unity
+player speed: 5.55
+18:08:10.137
+Unity
+player speed: 5.56
+18:08:10.137
+Unity
+player speed: 5.55
+18:08:10.138
+Unity
+player speed: 5.56
+18:08:10.138
+Unity
+player speed: 5.55
+18:08:10.139
+Unity
+player speed: 5.53
+18:08:10.140
+Unity
+player speed: 5.38
+18:08:10.140
+Unity
+player speed: 5.24
+18:08:10.141
+Unity
+player speed: 5.01
+18:08:10.141
+Unity
+player speed: 4.48
+18:08:10.142
+Unity
+player speed: 4.31
+18:08:10.144
+Unity
+player speed: 3.75
+18:08:10.145
+Unity
+player speed: 3.39
+18:08:10.146
+Unity
+player speed: 2.57
+18:08:10.146
+Unity
+player speed: 2.25
+18:08:10.147
+Unity
+player speed: 2.02
+18:08:10.147
+Unity
+player speed: 1.44
+18:08:10.148
+Unity
+player speed: 1.02
+18:08:10.149
+Unity
+player speed: 0.78
+18:08:10.149
+Unity
+player speed: 0.65
+18:08:10.150
+Unity
+player speed: 0.64
+18:08:10.150
+Unity
+player speed: 1.06
+18:08:10.151
+Unity
+player speed: 1.28
+18:08:10.151
+Unity
+player speed: 2.39
+18:08:10.152
+Unity
+player speed: 4.75
+18:08:10.152
+Unity
+player speed: 5.5
+18:08:10.153
+Unity
+player speed: 5.53
+18:08:10.154
+Unity
+player speed: 5.54
+18:08:10.154
+Unity
+player speed: 5.55
+18:08:10.155
+Unity
+player speed: 5.54
+18:08:10.155
+Unity
+player speed: 5.55
+18:08:10.156
+Unity
+player speed: 5.54
+18:08:10.156
+Unity
+player speed: 5.53
+18:08:10.157
+Unity
+player speed: 5.54
+18:08:10.157
+Unity
+player speed: 5.53
+18:08:10.158
+Unity
+player speed: 5.51
+18:08:10.159
+Unity
+player speed: 5.53
+18:08:10.159
+Unity
+player speed: 5.52
+18:08:10.160
+Unity
+player speed: 5.55
+18:08:10.160
+Unity
+player speed: 5.54
+18:08:10.161
+Unity
+player speed: 5.55
+18:08:10.162
+Unity
+player speed: 5.54
+18:08:10.162
+Unity
+player speed: 5.53
+18:08:10.163
+Unity
+player speed: 5.54
+18:08:10.164
+Unity
+player speed: 5.53
+18:08:10.164
+Unity
+player speed: 5.52
+18:08:10.165
+Unity
+player speed: 5.53
+18:08:10.165
+Unity
+player speed: 5.52
+18:08:10.166
+Unity
+player speed: 5.51
+18:08:10.167
+Unity
+player speed: 5.53
+18:08:10.167
+Unity
+player speed: 5.51
+18:08:10.168
+Unity
+player speed: 5.52
+18:08:10.168
+Unity
+player speed: 5.53
+18:08:10.169
+Unity
+player speed: 5.52
+18:08:10.169
+Unity
+player speed: 5.54
+18:08:10.170
+Unity
+player speed: 5.53
+18:08:10.171
+Unity
+player speed: 5.54
+18:08:10.171
+Unity
+player speed: 5.53
+18:08:10.172
+Unity
+player speed: 5.54
+18:08:10.172
+Unity
+player speed: 5.53
+18:08:10.173
+Unity
+player speed: 5.55
+18:08:10.173
+Unity
+player speed: 5.54
+18:08:10.174
+Unity
+player speed: 5.55
+18:08:10.175
+Unity
+player speed: 5.54
+18:08:10.175
+Unity
+player speed: 5.55
+18:08:10.176
+Unity
+player speed: 5.56
+18:08:10.176
+Unity
+player speed: 5.55
+18:08:10.177
+Unity
+player speed: 5.56
+18:08:10.177
+Unity
+player speed: 5.52
+18:08:10.178
+Unity
+player speed: 5.45
+18:08:10.179
+Unity
+player speed: 5.33
+18:08:10.179
+Unity
+player speed: 5.01
+18:08:10.180
+Unity
+player speed: 4.79
+18:08:10.180
+Unity
+player speed: 4.42
+18:08:10.181
+Unity
+player speed: 3.84
+18:08:10.181
+Unity
+player speed: 3.45
+18:08:10.182
+Unity
+player speed: 3.06
+18:08:10.182
+Unity
+player speed: 2.48
+18:08:10.183
+Unity
+player speed: 2.16
+18:08:10.184
+Unity
+player speed: 1.63
+18:08:10.184
+Unity
+player speed: 1.18
+18:08:10.185
+Unity
+player speed: 2.56
+18:08:10.185
+Unity
+player speed: 3.33
+18:08:10.186
+Unity
+player speed: 3.74
+18:08:10.187
+Unity
+player speed: 4.06
+18:08:10.187
+Unity
+player speed: 4.96
+18:08:10.188
+Unity
+player speed: 5.28
+18:08:10.189
+Unity
+player speed: 5.33
+18:08:10.189
+Unity
+player speed: 5.52
+18:08:10.190
+Unity
+player speed: 5.56
+18:08:10.190
+Unity
+player speed: 5.55
+18:08:10.191
+Unity
+player speed: 5.56
+18:08:10.191
+Unity
+player speed: 5.55
+18:08:10.192
+Unity
+player speed: 5.56
+18:08:10.192
+Unity
+player speed: 5.55
+18:08:10.193
+Unity
+player speed: 5.56
+18:08:10.193
+Unity
+player speed: 5.55
+18:08:10.194
+Unity
+player speed: 5.56
+18:08:10.195
+Unity
+player speed: 5.55
+18:08:10.195
+Unity
+player speed: 5.56
+18:08:10.196
+Unity
+player speed: 5.55
+18:08:10.196
+Unity
+player speed: 5.56
+18:08:10.197
+Unity
+player speed: 5.55
+18:08:10.197
+Unity
+player speed: 5.56
+18:08:10.198
+Unity
+player speed: 5.55
+18:08:10.198
+Unity
+player speed: 5.56
+18:08:10.199
+Unity
+player speed: 5.55
+18:08:10.199
+Unity
+player speed: 5.56
+18:08:10.200
+Unity
+player speed: 5.55
+18:08:10.201
+Unity
+player speed: 5.56
+18:08:10.201
+Unity
+player speed: 5.55
+18:08:10.202
+Unity
+player speed: 5.56
+18:08:10.202
+Unity
+player speed: 5.55
+18:08:10.203
+Unity
+player speed: 5.56
+18:08:10.203
+Unity
+player speed: 5.55
+18:08:10.204
+Unity
+player speed: 5.56
+18:08:10.204
+Unity
+player speed: 5.55
+18:08:10.205
+Unity
+player speed: 5.56
+18:08:10.206
+Unity
+player speed: 5.55
+18:08:10.206
+Unity
+player speed: 5.56
+18:08:10.207
+Unity
+player speed: 5.55
+18:08:10.207
+Unity
+player speed: 5.56
+18:08:10.208
+Unity
+player speed: 5.55
+18:08:10.208
+Unity
+player speed: 5.56
+18:08:10.209
+Unity
+player speed: 5.55
+18:08:10.210
+Unity
+player speed: 5.56
+18:08:10.210
+Unity
+player speed: 5.55
+18:08:10.211
+Unity
+player speed: 5.56
+18:08:10.211
+Unity
+player speed: 5.57
+18:08:10.212
+Unity
+player speed: 5.56
+18:08:10.213
+Unity
+player speed: 5.55
+18:08:10.213
+Unity
+player speed: 5.56
+18:08:10.214
+Unity
+player speed: 5.55
+18:08:10.214
+Unity
+player speed: 5.56
+18:08:10.215
+Unity
+player speed: 5.55
+18:08:10.215
+Unity
+player speed: 5.58
+18:08:10.216
+Unity
+player speed: 5.57
+18:08:10.216
+Unity
+player speed: 5.58
+18:08:10.217
+Unity
+player speed: 5.57
+18:08:10.217
+Unity
+player speed: 5.56
+18:08:10.218
+Unity
+player speed: 5.55
+18:08:10.218
+Unity
+player speed: 5.56
+18:08:10.219
+Unity
+player speed: 5.55
+18:08:10.220
+Unity
+player speed: 5.52
+18:08:10.220
+Unity
+player speed: 5.41
+18:08:10.221
+Unity
+player speed: 5.26
+18:08:10.221
+Unity
+player speed: 5.06
+18:08:10.222
+Unity
+player speed: 4.61
+18:08:10.222
+Unity
+player speed: 4.34
+18:08:10.223
+Unity
+player speed: 3.87
+18:08:10.223
+Unity
+player speed: 3.47
+18:08:10.224
+Unity
+player speed: 2.71
+18:08:10.224
+Unity
+player speed: 2.42
+18:08:10.225
+Unity
+player speed: 2.4
+18:08:10.225
+Unity
+player speed: 2.3
+18:08:10.226
+Unity
+player speed: 3.05
+18:08:10.227
+Unity
+player speed: 4.52
+18:08:10.227
+Unity
+player speed: 5
+18:08:10.228
+Unity
+player speed: 5.16
+18:08:10.228
+Unity
+player speed: 5.45
+18:08:10.229
+Unity
+player speed: 5.54
+18:08:10.229
+Unity
+player speed: 5.53
+18:08:10.230
+Unity
+player speed: 5.54
+18:08:10.230
+Unity
+player speed: 5.53
+18:08:10.231
+Unity
+player speed: 5.54
+18:08:10.231
+Unity
+player speed: 5.52
+18:08:10.232
+Unity
+player speed: 5.47
+18:08:10.232
+Unity
+player speed: 5.32
+18:08:10.233
+Unity
+player speed: 4.98
+18:08:10.233
+Unity
+player speed: 4.76
+18:08:10.234
+Unity
+player speed: 4.32
+18:08:10.235
+Unity
+player speed: 3.99
+18:08:10.235
+Unity
+player speed: 3.14
+18:08:10.238
+Unity
+player speed: 2.87
+18:08:10.239
+Unity
+player speed: 2.42
+18:08:10.239
+Unity
+player speed: 1.86
+18:08:10.240
+Unity
+player speed: 1.57
+18:08:10.241
+Unity
+player speed: 1.26
+18:08:10.241
+Unity
+player speed: 0.67
+18:08:10.242
+Unity
+player speed: 0.35
+18:08:10.242
+Unity
+player speed: 0.16
+18:08:10.243
+Unity
+player speed: 0
+18:08:10.243
+Unity
+player speed: 0.47
+18:08:10.244
+Unity
+player speed: 1.76
+18:08:10.245
+Unity
+player speed: 4.17
+18:08:10.245
+Unity
+player speed: 5.2
+18:08:10.246
+Unity
+player speed: 5.27
+18:08:10.246
+Unity
+player speed: 5.44
+18:08:10.247
+Unity
+player speed: 5.51
+18:08:10.247
+Unity
+player speed: 5.55
+18:08:10.248
+Unity
+player speed: 5.54
+18:08:10.248
+Unity
+player speed: 5.55
+18:08:10.249
+Unity
+player speed: 5.54
+18:08:10.249
+Unity
+player speed: 5.55
+18:08:10.250
+Unity
+player speed: 5.54
+18:08:10.251
+Unity
+player speed: 5.55
+18:08:10.251
+Unity
+player speed: 5.56
+18:08:10.252
+Unity
+player speed: 5.55
+18:08:10.252
+Unity
+player speed: 5.56
+18:08:10.253
+Unity
+player speed: 5.55
+18:08:10.253
+Unity
+player speed: 5.56
+18:08:10.254
+Unity
+player speed: 5.55
+18:08:10.255
+Unity
+player speed: 5.56
+18:08:10.255
+Unity
+player speed: 5.55
+18:08:10.256
+Unity
+player speed: 5.56
+18:08:10.256
+Unity
+player speed: 5.55
+18:08:10.257
+Unity
+player speed: 5.56
+18:08:10.258
+Unity
+player speed: 5.55
+18:08:10.258
+Unity
+player speed: 5.56
+18:08:10.259
+Unity
+player speed: 5.55
+18:08:10.259
+Unity
+player speed: 5.56
+18:08:10.260
+Unity
+player speed: 5.55
+18:08:10.260
+Unity
+player speed: 5.56
+18:08:10.261
+Unity
+player speed: 5.55
+18:08:10.262
+Unity
+player speed: 5.56
+18:08:10.262
+Unity
+player speed: 5.55
+18:08:10.263
+Unity
+player speed: 5.56
+18:08:10.263
+Unity
+player speed: 5.57
+18:08:10.264
+Unity
+player speed: 5.56
+18:08:10.264
+Unity
+player speed: 5.57
+18:08:10.265
+Unity
+player speed: 5.56
+18:08:10.265
+Unity
+player speed: 5.63
+18:08:10.266
+Unity
+player speed: 5.62
+18:08:10.267
+Unity
+player speed: 5.63
+18:08:10.267
+Unity
+player speed: 5.6
+18:08:10.268
+Unity
+player speed: 5.59
+18:08:10.268
+Unity
+player speed: 5.57
+18:08:10.269
+Unity
+player speed: 5.58
+18:08:10.270
+Unity
+player speed: 5.57
+18:08:10.270
+Unity
+player speed: 5.56
+18:08:10.272
+Unity
+player speed: 5.55
+18:08:10.272
+Unity
+player speed: 5.56
+18:08:10.273
+Unity
+player speed: 5.55
+18:08:10.274
+Unity
+player speed: 5.56
+18:08:10.274
+Unity
+player speed: 5.55
+18:08:10.275
+Unity
+player speed: 5.56
+18:08:10.275
+Unity
+player speed: 5.55
+18:08:10.276
+Unity
+player speed: 5.56
+18:08:10.276
+Unity
+player speed: 5.55
+18:08:10.277
+Unity
+player speed: 5.56
+18:08:10.278
+Unity
+player speed: 5.55
+18:08:10.278
+Unity
+player speed: 5.56
+18:08:10.279
+Unity
+player speed: 5.55
+18:08:10.279
+Unity
+player speed: 5.56
+18:08:10.280
+Unity
+player speed: 5.55
+18:08:10.281
+Unity
+player speed: 5.54
+18:08:10.281
+Unity
+player speed: 5.53
+18:08:10.282
+Unity
+player speed: 5.54
+18:08:10.282
+Unity
+player speed: 5.53
+18:08:10.283
+Unity
+player speed: 5.52
+18:08:10.284
+Unity
+player speed: 5.51
+18:08:10.284
+Unity
+player speed: 5.49
+18:08:10.285
+Unity
+player speed: 5.51
+18:08:10.285
+Unity
+player speed: 5.49
+18:08:10.286
+Unity
+player speed: 5.48
+18:08:10.286
+Unity
+player speed: 5.49
+18:08:10.287
+Unity
+player speed: 5.47
+18:08:10.287
+Unity
+player speed: 5.46
+18:08:10.288
+Unity
+player speed: 5.44
+18:08:10.289
+Unity
+player speed: 5.47
+18:08:10.289
+Unity
+player speed: 5.46
+18:08:10.290
+Unity
+player speed: 5.54
+18:08:10.290
+Unity
+player speed: 5.55
+18:08:10.291
+Unity
+player speed: 5.54
+18:08:10.291
+Unity
+player speed: 5.56
+18:08:10.292
+Unity
+player speed: 5.55
+18:08:10.292
+Unity
+player speed: 5.56
+18:08:10.293
+Unity
+player speed: 5.55
+18:08:10.294
+Unity
+player speed: 5.56
+18:08:10.294
+Unity
+player speed: 5.55
+18:08:10.295
+Unity
+player speed: 5.56
+18:08:10.295
+Unity
+player speed: 5.55
+18:08:10.296
+Unity
+player speed: 5.56
+18:08:10.296
+Unity
+player speed: 5.55
+18:08:10.297
+Unity
+player speed: 5.54
+18:08:10.297
+Unity
+player speed: 5.55
+18:08:10.298
+Unity
+player speed: 5.54
+18:08:10.299
+Unity
+player speed: 5.53
+18:08:10.299
+Unity
+player speed: 5.54
+18:08:10.300
+Unity
+player speed: 5.53
+18:08:10.300
+Unity
+player speed: 5.51
+18:08:10.301
+Unity
+player speed: 5.53
+18:08:10.301
+Unity
+player speed: 5.51
+18:08:10.302
+Unity
+player speed: 5.49
+18:08:10.302
+Unity
+player speed: 5.5
+18:08:10.303
+Unity
+player speed: 5.48
+18:08:10.304
+Unity
+player speed: 5.46
+18:08:10.304
+Unity
+player speed: 5.48
+18:08:10.305
+Unity
+player speed: 5.46
+18:08:10.305
+Unity
+player speed: 5.45
+18:08:10.306
+Unity
+player speed: 5.49
+18:08:10.306
+Unity
+player speed: 5.5
+18:08:10.307
+Unity
+player speed: 5.54
+18:08:10.307
+Unity
+player speed: 5.55
+18:08:10.308
+Unity
+player speed: 5.54
+18:08:10.308
+Unity
+player speed: 5.55
+18:08:10.309
+Unity
+player speed: 5.54
+18:08:10.310
+Unity
+player speed: 5.55
+18:08:10.310
+Unity
+player speed: 5.56
+18:08:10.311
+Unity
+player speed: 5.55
+18:08:10.311
+Unity
+player speed: 5.56
+18:08:10.312
+Unity
+player speed: 5.55
+18:08:10.312
+Unity
+player speed: 5.56
+18:08:10.313
+Unity
+player speed: 5.55
+18:08:10.313
+Unity
+player speed: 5.56
+18:08:10.314
+Unity
+player speed: 5.55
+18:08:10.315
+Unity
+player speed: 5.56
+18:08:10.315
+Unity
+player speed: 5.55
+18:08:10.316
+Unity
+player speed: 5.56
+18:08:10.316
+Unity
+player speed: 5.55
+18:08:10.317
+Unity
+player speed: 5.56
+18:08:10.317
+Unity
+player speed: 5.55
+18:08:10.318
+Unity
+player speed: 5.54
+18:08:10.318
+Unity
+player speed: 5.55
+18:08:10.319
+Unity
+player speed: 5.54
+18:08:10.320
+Unity
+player speed: 5.53
+18:08:10.320
+Unity
+player speed: 5.54
+18:08:10.321
+Unity
+player speed: 5.53
+18:08:10.321
+Unity
+player speed: 5.55
+18:08:10.322
+Unity
+player speed: 5.56
+18:08:10.322
+Unity
+player speed: 5.55
+18:08:10.323
+Unity
+player speed: 5.56
+18:08:10.323
+Unity
+player speed: 5.55
+18:08:10.324
+Unity
+player speed: 5.56
+18:08:10.325
+Unity
+player speed: 5.55
+18:08:10.325
+Unity
+player speed: 5.56
+18:08:10.326
+Unity
+player speed: 5.55
+18:08:10.326
+Unity
+player speed: 5.56
+18:08:10.562
+Unity
+player speed: 5.55
+18:08:10.563
+Unity
+player speed: 5.56
+18:08:10.563
+Unity
+player speed: 5.55
+18:08:10.765
+Unity
+player speed: 5.56
+18:08:10.779
+Unity
+player speed: 5.55
+18:08:10.962
+Unity
+player speed: 5.56
+18:08:11.022
+Unity
+player speed: 5.55
+18:08:12.958
+Unity
+player speed: 5.56
+18:08:12.959
+Unity
+player speed: 5.55
+18:08:12.959
+Unity
+player speed: 5.54
+18:08:12.960
+Unity
+player speed: 5.53
+18:08:12.960
+Unity
+player speed: 5.52
+18:08:12.961
+Unity
+player speed: 5.53
+18:08:12.962
+Unity
+player speed: 5.52
+18:08:12.963
+Unity
+player speed: 5.53
+18:08:12.964
+Unity
+player speed: 5.54
+18:08:12.964
+Unity
+player speed: 5.55
+18:08:12.965
+Unity
+player speed: 5.54
+18:08:12.965
+Unity
+player speed: 5.56
+18:08:12.966
+Unity
+player speed: 5.55
+18:08:12.967
+Unity
+player speed: 5.56
+18:08:12.967
+Unity
+player speed: 5.55
+18:08:12.968
+Unity
+player speed: 5.56
+18:08:12.968
+Unity
+player speed: 5.55
+18:08:12.969
+Unity
+player speed: 5.56
+18:08:12.970
+Unity
+player speed: 5.55
+18:08:13.114
+Unity
+player speed: 5.56
+18:08:13.114
+Unity
+player speed: 5.55
+18:08:13.319
+Unity
+player speed: 5.56
+18:08:13.319
+Unity
+player speed: 5.55
+18:08:13.527
+Unity
+player speed: 5.56
+18:08:13.528
+Unity
+player speed: 5.55
+18:08:13.723
+Unity
+player speed: 5.56
+18:08:13.737
+Unity
+player speed: 5.55
+18:08:13.737
+Unity
+player speed: 5.56
+18:08:13.932
+Unity
+player speed: 5.55
+18:08:13.932
+Unity
+player speed: 5.56
+18:08:14.155
+Unity
+player speed: 5.55
+18:08:14.155
+Unity
+player speed: 5.53
+18:08:14.460
+Unity
+player speed: 5.48
+18:08:14.474
+Unity
+player speed: 5.33
+18:08:14.475
+Unity
+player speed: 5
+18:08:14.767
+Unity
+player speed: 4.78
+18:08:14.767
+Unity
+player speed: 4.31
+18:08:14.768
+Unity
+player speed: 3.97
+18:08:15.100
+Unity
+player speed: 3.12
+18:08:15.101
+Unity
+player speed: 2.85
+18:08:15.101
+Unity
+player speed: 2.41
+18:08:15.365
+Unity
+player speed: 1.83
+18:08:15.379
+Unity
+player speed: 1.49
+18:08:15.380
+Unity
+player speed: 1.2
+18:08:15.574
+Unity
+player speed: 0.65
+18:08:15.575
+Unity
+player speed: 0.28
+18:08:15.784
+Unity
+player speed: 0.08
+18:08:15.785
+Unity
+player speed: 0
+18:08:15.965
+Unity
+player speed: 0.1
+18:08:15.966
+Unity
+player speed: 0.09
+18:08:16.188
+Unity
+player speed: 0.14
+18:08:16.189
+Unity
+player speed: 0.18
+18:08:16.383
+Unity
+player speed: 0.14
+18:08:16.384
+Unity
+player speed: 0
+18:08:16.592
+Unity
+player speed: 0.13
+18:08:16.606
+Unity
+player speed: 0.16
+18:08:16.815
+Unity
+player speed: 0.12
+18:08:16.830
+Unity
+player speed: 0.09
+18:08:17.135
+Unity
+player speed: 0.07
+18:08:17.136
+Unity
+player speed: 0
+18:08:17.136
+Unity
+player speed: 0.29
+18:08:17.441
+Unity
+player speed: 0.64
+18:08:17.442
+Unity
+player speed: 1.51
+18:08:17.442
+Unity
+player speed: 3.08
+18:08:17.733
+Unity
+player speed: 4.63
+18:08:17.734
+Unity
+player speed: 4.92
+18:08:17.734
+Unity
+player speed: 4.94
+18:08:18.026
+Unity
+player speed: 5.31
+18:08:18.026
+Unity
+player speed: 5.41
+18:08:18.027
+Unity
+player speed: 5.55
+18:08:18.028
+Unity
+player speed: 5.56
+18:08:18.249
+Unity
+player speed: 5.55
+18:08:18.249
+Unity
+player speed: 5.56
+18:08:18.540
+Unity
+player speed: 5.55
+18:08:18.555
+Unity
+player speed: 5.56
+18:08:18.555
+Unity
+player speed: 5.55
+18:08:18.846
+Unity
+player speed: 5.56
+18:08:18.846
+Unity
+player speed: 5.55
+18:08:18.847
+Unity
+player speed: 5.56
+18:08:19.055
+Unity
+player speed: 5.55
+18:08:19.056
+Unity
+player speed: 5.54
+18:08:19.250
+Unity
+player speed: 5.55
+18:08:19.251
+Unity
+player speed: 5.54
+18:08:19.487
+Unity
+player speed: 5.55
+18:08:19.514
+Unity
+player speed: 5.54
+18:08:19.793
+Unity
+player speed: 5.55
+18:08:19.807
+Unity
+player speed: 5.56
+18:08:19.808
+Unity
+player speed: 5.55
+18:08:20.083
+Unity
+player speed: 5.56
+18:08:20.111
+Unity
+player speed: 5.55
+18:08:20.112
+Unity
+player speed: 5.54
+18:08:20.419
+Unity
+player speed: 5.55
+18:08:20.434
+Unity
+player speed: 5.54
+18:08:20.434
+Unity
+player speed: 5.53
+18:08:20.906
+Unity
+player speed: 5.52
+18:08:20.907
+Unity
+player speed: 5.53
+18:08:20.908
+Unity
+player speed: 5.51
+18:08:21.101
+Unity
+player speed: 5.5
+18:08:21.102
+Unity
+player speed: 5.52
+18:08:21.103
+Unity
+player speed: 5.49
+18:08:21.103
+Unity
+player speed: 5.47
+18:08:21.310
+Unity
+player speed: 5.46
+18:08:21.310
+Unity
+player speed: 5.44
+18:08:21.547
+Unity
+player speed: 5.45
+18:08:21.547
+Unity
+player speed: 5.43
+18:08:21.937
+Unity
+player speed: 5.4
+18:08:21.951
+Unity
+player speed: 5.43
+18:08:21.951
+Unity
+player speed: 5.39
+18:08:22.243
+Unity
+player speed: 5.35
+18:08:22.244
+Unity
+player speed: 5.39
+18:08:22.245
+Unity
+player speed: 5.35
+18:08:22.245
+Unity
+player speed: 5.31
+18:08:22.246
+Unity
+player speed: 5.36
+18:08:22.591
+Unity
+player speed: 5.31
+18:08:22.606
+Unity
+player speed: 5.26
+18:08:22.606
+Unity
+player speed: 5.32
+18:08:22.884
+Unity
+player speed: 5.26
+18:08:22.898
+Unity
+player speed: 5.21
+18:08:22.899
+Unity
+player speed: 5.27
+18:08:23.162
+Unity
+player speed: 5.21
+18:08:23.176
+Unity
+player speed: 5.15
+18:08:23.177
+Unity
+player speed: 5.21
+18:08:23.468
+Unity
+player speed: 5.16
+18:08:23.483
+Unity
+player speed: 5.1
+18:08:23.483
+Unity
+player speed: 5.16
+18:08:23.817
+Unity
+player speed: 5.11
+18:08:23.819
+Unity
+player speed: 5.05
+18:08:23.819
+Unity
+player speed: 5.09
+18:08:24.082
+Unity
+player speed: 5.05
+18:08:24.109
+Unity
+player speed: 5
+18:08:24.109
+Unity
+player speed: 5.02
+18:08:24.402
+Unity
+player speed: 4.95
+18:08:24.403
+Unity
+player speed: 4.93
+18:08:24.403
+Unity
+player speed: 4.98
+18:08:24.707
+Unity
+player speed: 4.89
+18:08:24.708
+Unity
+player speed: 4.81
+18:08:24.708
+Unity
+player speed: 4.9
+18:08:24.890
+Unity
+player speed: 4.84
+18:08:24.890
+Unity
+player speed: 4.78
+18:08:25.111
+Unity
+player speed: 4.81
+18:08:25.112
+Unity
+player speed: 4.82
+18:08:25.404
+Unity
+player speed: 4.73
+18:08:25.405
+Unity
+player speed: 4.66
+18:08:25.405
+Unity
+player speed: 4.75
+18:08:25.627
+Unity
+player speed: 4.68
+18:08:25.641
+Unity
+player speed: 4.61
+18:08:25.920
+Unity
+player speed: 4.65
+18:08:25.920
+Unity
+player speed: 4.66
+18:08:25.921
+Unity
+player speed: 4.56
+18:08:26.142
+Unity
+player speed: 4.47
+18:08:26.143
+Unity
+player speed: 4.58
+18:08:26.435
+Unity
+player speed: 4.51
+18:08:26.435
+Unity
+player speed: 4.44
+18:08:26.436
+Unity
+player speed: 4.46
+18:08:26.769
+Unity
+player speed: 4.49
+18:08:26.770
+Unity
+player speed: 4.39
+18:08:26.770
+Unity
+player speed: 4.29
+18:08:26.796
+Unity
+player speed: 4.39
+18:08:27.159
+Unity
+player speed: 4.38
+18:08:27.160
+Unity
+player speed: 4.27
+18:08:27.160
+Unity
+player speed: 4.17
+18:08:27.161
+Unity
+player speed: 4.3
+18:08:27.465
+Unity
+player speed: 4.25
+18:08:27.493
+Unity
+player speed: 4.16
+18:08:27.494
+Unity
+player speed: 4.15
+18:08:27.688
+Unity
+player speed: 4.2
+18:08:27.688
+Unity
+player speed: 4.13
+18:08:27.980
+Unity
+player speed: 4.05
+18:08:27.981
+Unity
+player speed: 4.1
+18:08:27.981
+Unity
+player speed: 4.03
+18:08:28.272
+Unity
+player speed: 3.95
+18:08:28.273
+Unity
+player speed: 3.94
+18:08:28.274
+Unity
+player speed: 4
+18:08:28.481
+Unity
+player speed: 3.92
+18:08:28.482
+Unity
+player speed: 3.84
+18:08:28.690
+Unity
+player speed: 3.83
+18:08:28.691
+Unity
+player speed: 3.89
+18:08:28.899
+Unity
+player speed: 3.82
+18:08:28.900
+Unity
+player speed: 3.73
+18:08:29.206
+Unity
+player speed: 3.67
+18:08:29.220
+Unity
+player speed: 3.77
+18:08:29.221
+Unity
+player speed: 3.73
+18:08:29.513
+Unity
+player speed: 3.64
+18:08:29.540
+Unity
+player speed: 3.52
+18:08:29.541
+Unity
+player speed: 3.66
+18:08:29.833
+Unity
+player speed: 3.68
+18:08:29.833
+Unity
+player speed: 3.56
+18:08:29.835
+Unity
+player speed: 3.46
+18:08:30.125
+Unity
+player speed: 3.52
+18:08:30.126
+Unity
+player speed: 3.57
+18:08:30.127
+Unity
+player speed: 3.48
+18:08:30.432
+Unity
+player speed: 3.38
+18:08:30.432
+Unity
+player speed: 3.35
+18:08:30.459
+Unity
+player speed: 3.45
+18:08:31.044
+Unity
+player speed: 3.54
+18:08:31.045
+Unity
+player speed: 3.59
+18:08:31.045
+Unity
+player speed: 3.65
+18:08:31.264
+Unity
+player speed: 3.89
+18:08:31.265
+Unity
+player speed: 3.98
+18:08:31.265
+Unity
+player speed: 3.93
+18:08:31.266
+Unity
+player speed: 4
+18:08:31.266
+Unity
+player speed: 4.2
+18:08:31.267
+Unity
+player speed: 4.35
+18:08:31.559
+Unity
+player speed: 4.32
+18:08:31.559
+Unity
+player speed: 4.33
+18:08:31.560
+Unity
+player speed: 4.47
+18:08:31.767
+Unity
+player speed: 4.54
+18:08:31.768
+Unity
+player speed: 4.68
+18:08:31.962
+Unity
+player speed: 4.92
+18:08:31.963
+Unity
+player speed: 4.91
+18:08:32.157
+Unity
+player speed: 4.99
+18:08:32.185
+Unity
+player speed: 4.96
+18:08:32.366
+Unity
+player speed: 5.05
+18:08:32.367
+Unity
+player speed: 5.2
+18:08:32.589
+Unity
+player speed: 5.27
+18:08:32.589
+Unity
+player speed: 5.28
+18:08:32.882
+Unity
+player speed: 5.23
+18:08:32.882
+Unity
+player speed: 5.31
+18:08:32.896
+Unity
+player speed: 5.36
+18:08:33.090
+Unity
+player speed: 5.35
+18:08:33.105
+Unity
+player speed: 5.37
+18:08:33.424
+Unity
+player speed: 5.33
+18:08:33.425
+Unity
+player speed: 5.4
+18:08:33.425
+Unity
+player speed: 5.43
+18:08:33.703
+Unity
+player speed: 5.44
+18:08:33.704
+Unity
+player speed: 5.46
+18:08:33.704
+Unity
+player speed: 5.44
+18:08:33.912
+Unity
+player speed: 5.42
+18:08:33.913
+Unity
+player speed: 5.5
+18:08:34.232
+Unity
+player speed: 5.52
+18:08:34.233
+Unity
+player speed: 5.53
+18:08:34.233
+Unity
+player speed: 5.52
+18:08:34.525
+Unity
+player speed: 5.53
+18:08:34.553
+Unity
+player speed: 5.55
+18:08:34.553
+Unity
+player speed: 5.56
+18:08:34.720
+Unity
+player speed: 5.55
+18:08:34.721
+Unity
+player speed: 5.56
+18:08:34.929
+Unity
+player speed: 5.55
+18:08:34.929
+Unity
+player speed: 5.56
+18:08:35.138
+Unity
+player speed: 5.55
+18:08:35.139
+Unity
+player speed: 5.56
+18:08:35.346
+Unity
+player speed: 5.55
+18:08:35.346
+Unity
+player speed: 5.56
+18:08:35.347
+Unity
+player speed: 5.58
+18:08:35.541
+Unity
+player speed: 5.57
+18:08:35.542
+Unity
+player speed: 5.58
+18:08:35.749
+Unity
+player speed: 5.57
+18:08:35.749
+Unity
+player speed: 5.6
+18:08:35.944
+Unity
+player speed: 5.61
+18:08:35.959
+Unity
+player speed: 5.62
+18:08:36.168
+Unity
+player speed: 5.6
+18:08:36.168
+Unity
+player speed: 5.64
+18:08:36.390
+Unity
+player speed: 5.71
+18:08:36.391
+Unity
+player speed: 5.74
+18:08:36.683
+Unity
+player speed: 5.7
+18:08:36.697
+Unity
+player speed: 5.87
+18:08:36.698
+Unity
+player speed: 5.91
+18:08:36.976
+Unity
+player speed: 5.86
+18:08:36.976
+Unity
+player speed: 6.05
+18:08:36.977
+Unity
+player speed: 6.07
+18:08:37.184
+Unity
+player speed: 6.12
+18:08:37.185
+Unity
+player speed: 6.03
+18:08:37.379
+Unity
+player speed: 6.29
+18:08:37.380
+Unity
+player speed: 6.36
+18:08:37.588
+Unity
+player speed: 6.41
+18:08:37.588
+Unity
+player speed: 6.29
+18:08:37.797
+Unity
+player speed: 6.54
+18:08:37.797
+Unity
+player speed: 6.64
+18:08:37.992
+Unity
+player speed: 6.71
+18:08:37.993
+Unity
+player speed: 6.55
+18:08:38.215
+Unity
+player speed: 6.84
+18:08:38.215
+Unity
+player speed: 6.93
+18:08:38.507
+Unity
+player speed: 6.95
+18:08:38.508
+Unity
+player speed: 6.8
+18:08:38.508
+Unity
+player speed: 7.04
+18:08:38.716
+Unity
+player speed: 7.19
+18:08:38.717
+Unity
+player speed: 7.11
+18:08:38.925
+Unity
+player speed: 7.06
+18:08:38.926
+Unity
+player speed: 7.16
+18:08:39.189
+Unity
+player speed: 7.48
+18:08:39.190
+Unity
+player speed: 7.35
+18:08:39.426
+Unity
+player speed: 7.33
+18:08:39.427
+Unity
+player speed: 7.38
+18:08:39.427
+Unity
+player speed: 7.87
+18:08:39.635
+Unity
+player speed: 7.73
+18:08:39.636
+Unity
+player speed: 7.75
+18:08:39.636
+Unity
+player speed: 8.18
+18:08:39.858
+Unity
+player speed: 8.4
+18:08:39.858
+Unity
+player speed: 8.23
+18:08:40.150
+Unity
+player speed: 8.1
+18:08:40.151
+Unity
+player speed: 8.77
+18:08:40.151
+Unity
+player speed: 8.92
+18:08:40.345
+Unity
+player speed: 8.9
+18:08:40.345
+Unity
+player speed: 8.88
+18:08:40.568
+Unity
+player speed: 9.7
+18:08:40.569
+Unity
+player speed: 9.56
+18:08:40.763
+Unity
+player speed: 9.42
+18:08:40.805
+Unity
+player speed: 9.57
+18:08:40.958
+Unity
+player speed: 10.15
+18:08:40.972
+Unity
+player speed: 10.18
+18:08:41.181
+Unity
+player speed: 9.81
+18:08:41.181
+Unity
+player speed: 10.49
+18:08:41.487
+Unity
+player speed: 10.31
+18:08:41.487
+Unity
+player speed: 10.17
+18:08:41.488
+Unity
+player speed: 10.03
+18:08:41.807
+Unity
+player speed: 10.65
+18:08:41.808
+Unity
+player speed: 10.84
+18:08:41.809
+Unity
+player speed: 10.38
+18:08:42.113
+Unity
+player speed: 10.9
+18:08:42.114
+Unity
+player speed: 10.78
+18:08:42.114
+Unity
+player speed: 10.55
+18:08:42.419
+Unity
+player speed: 10.86
+18:08:42.434
+Unity
+player speed: 11.2
+18:08:42.434
+Unity
+player speed: 10.77
+18:08:42.726
+Unity
+player speed: 10.75
+18:08:42.727
+Unity
+player speed: 11.32
+18:08:42.727
+Unity
+player speed: 11.52
+18:08:43.032
+Unity
+player speed: 11.38
+18:08:43.046
+Unity
+player speed: 11.63
+18:08:43.047
+Unity
+player speed: 11.66
+18:08:43.310
+Unity
+player speed: 11.32
+18:08:43.325
+Unity
+player speed: 11.23
+18:08:43.326
+Unity
+player speed: 10.72
+18:08:43.533
+Unity
+player speed: 10.59
+18:08:43.547
+Unity
+player speed: 10.2
+18:08:43.854
+Unity
+player speed: 9.98
+18:08:43.854
+Unity
+player speed: 9.79
+18:08:43.855
+Unity
+player speed: 9.45
+18:08:44.048
+Unity
+player speed: 9.36
+18:08:44.049
+Unity
+player speed: 9
+18:08:44.050
+Unity
+player speed: 8.92
+18:08:44.384
+Unity
+player speed: 8.62
+18:08:44.385
+Unity
+player speed: 8.51
+18:08:44.386
+Unity
+player speed: 8.28
+18:08:44.746
+Unity
+player speed: 8.11
+18:08:44.747
+Unity
+player speed: 7.97
+18:08:44.748
+Unity
+player speed: 7.77
+18:08:44.955
+Unity
+player speed: 7.69
+18:08:44.969
+Unity
+player speed: 7.48
+18:08:44.970
+Unity
+player speed: 7.45
+18:08:45.164
+Unity
+player speed: 7.24
+18:08:45.179
+Unity
+player speed: 7.22
+18:08:45.387
+Unity
+player speed: 7.02
+18:08:45.388
+Unity
+player speed: 6.82
+18:08:45.568
+Unity
+player speed: 6.81
+18:08:45.569
+Unity
+player speed: 6.64
+18:08:45.791
+Unity
+player speed: 6.63
+18:08:45.791
+Unity
+player speed: 6.47
+18:08:45.986
+Unity
+player speed: 6.33
+18:08:45.986
+Unity
+player speed: 6.32
+18:08:46.195
+Unity
+player speed: 6.2
+18:08:46.209
+Unity
+player speed: 6.1
+18:08:46.501
+Unity
+player speed: 6.01
+18:08:46.502
+Unity
+player speed: 5.93
+18:08:46.502
+Unity
+player speed: 5.94
+18:08:46.696
+Unity
+player speed: 5.86
+18:08:46.697
+Unity
+player speed: 5.87
+18:08:46.905
+Unity
+player speed: 5.81
+18:08:46.905
+Unity
+player speed: 5.82
+18:08:47.114
+Unity
+player speed: 5.76
+18:08:47.114
+Unity
+player speed: 5.71
+18:08:47.434
+Unity
+player speed: 5.67
+18:08:47.435
+Unity
+player speed: 5.64
+18:08:47.435
+Unity
+player speed: 5.62
+18:08:47.740
+Unity
+player speed: 5.61
+18:08:47.755
+Unity
+player speed: 5.59
+18:08:47.755
+Unity
+player speed: 5.58
+18:08:48.061
+Unity
+player speed: 5.57
+18:08:48.061
+Unity
+player speed: 5.56
+18:08:48.062
+Unity
+player speed: 5.55
+18:08:48.506
+Unity
+player speed: 5.56
+18:08:48.507
+Unity
+player speed: 5.55
+18:08:48.507
+Unity
+player speed: 5.56
+18:08:48.508
+Unity
+player speed: 5.55
+18:08:48.673
+Unity
+player speed: 5.56
+18:08:48.674
+Unity
+player speed: 5.55
+18:08:48.674
+Unity
+player speed: 5.56
+18:08:48.896
+Unity
+player speed: 5.57
+18:08:48.897
+Unity
+player speed: 5.6
+18:08:49.063
+Unity
+player speed: 5.61
+18:08:49.064
+Unity
+player speed: 5.65
+18:08:49.286
+Unity
+player speed: 5.7
+18:08:49.286
+Unity
+player speed: 5.73
+18:08:49.495
+Unity
+player speed: 5.7
+18:08:49.495
+Unity
+player speed: 5.72
+18:08:49.954
+Unity
+player speed: 5.85
+18:08:49.955
+Unity
+player speed: 5.94
+18:08:49.996
+Unity
+player speed: 5.89
+18:08:49.997
+Unity
+player speed: 5.91
+18:08:49.997
+Unity
+player speed: 6.06
+18:08:50.288
+Unity
+player speed: 6.23
+18:08:50.289
+Unity
+player speed: 6.16
+18:08:50.289
+Unity
+player speed: 6.18
+18:08:50.497
+Unity
+player speed: 6.38
+18:08:50.498
+Unity
+player speed: 6.58
+18:08:50.692
+Unity
+player speed: 6.52
+18:08:50.693
+Unity
+player speed: 6.79
+18:08:51.166
+Unity
+player speed: 6.97
+18:08:51.166
+Unity
+player speed: 6.9
+18:08:51.167
+Unity
+player speed: 6.89
+18:08:51.167
+Unity
+player speed: 7.38
+18:08:51.333
+Unity
+player speed: 7.49
+18:08:51.347
+Unity
+player speed: 7.45
+18:08:51.681
+Unity
+player speed: 7.36
+18:08:51.681
+Unity
+player speed: 8.21
+18:08:51.682
+Unity
+player speed: 8.15
+18:08:51.848
+Unity
+player speed: 8.13
+18:08:51.848
+Unity
+player speed: 8.42
+18:08:52.140
+Unity
+player speed: 9.1
+18:08:52.141
+Unity
+player speed: 9.02
+18:08:52.141
+Unity
+player speed: 8.88
+18:08:52.461
+Unity
+player speed: 9.69
+18:08:52.461
+Unity
+player speed: 9.98
+18:08:52.462
+Unity
+player speed: 10.06
+18:08:52.753
+Unity
+player speed: 9.73
+18:08:52.767
+Unity
+player speed: 10.72
+18:08:52.768
+Unity
+player speed: 10.43
+18:08:52.768
+Unity
+player speed: 10.26
+18:08:53.059
+Unity
+player speed: 10.87
+18:08:53.060
+Unity
+player speed: 11.27
+18:08:53.061
+Unity
+player speed: 11.32
+18:08:53.366
+Unity
+player speed: 10.89
+18:08:53.366
+Unity
+player speed: 11.58
+18:08:53.367
+Unity
+player speed: 11.66
+18:08:53.575
+Unity
+player speed: 11.34
+18:08:53.575
+Unity
+player speed: 11.24
+18:08:53.783
+Unity
+player speed: 10.77
+18:08:53.784
+Unity
+player speed: 10.61
+18:08:54.076
+Unity
+player speed: 10.28
+18:08:54.076
+Unity
+player speed: 9.96
+18:08:54.077
+Unity
+player speed: 9.82
+18:08:54.285
+Unity
+player speed: 9.44
+18:08:54.285
+Unity
+player speed: 9.36
+18:08:54.480
+Unity
+player speed: 9
+18:08:54.480
+Unity
+player speed: 8.92
+18:08:54.688
+Unity
+player speed: 8.64
+18:08:54.689
+Unity
+player speed: 8.52
+18:08:54.897
+Unity
+player speed: 8.31
+18:08:54.898
+Unity
+player speed: 8.13
+18:08:55.092
+Unity
+player speed: 8.03
+18:08:55.106
+Unity
+player speed: 7.8
+18:08:55.329
+Unity
+player speed: 7.76
+18:08:55.329
+Unity
+player speed: 7.52
+18:08:55.607
+Unity
+player speed: 7.5
+18:08:55.621
+Unity
+player speed: 7.28
+18:08:55.622
+Unity
+player speed: 7.26
+18:08:55.816
+Unity
+player speed: 7.06
+18:08:55.817
+Unity
+player speed: 7.05
+18:08:56.025
+Unity
+player speed: 6.86
+18:08:56.026
+Unity
+player speed: 6.84
+18:08:56.245
+Unity
+player speed: 6.67
+18:08:56.246
+Unity
+player speed: 6.65
+18:08:56.552
+Unity
+player speed: 6.5
+18:08:56.553
+Unity
+player speed: 6.48
+18:08:56.554
+Unity
+player speed: 6.35
+18:08:56.860
+Unity
+player speed: 6.33
+18:08:56.874
+Unity
+player speed: 6.23
+18:08:56.875
+Unity
+player speed: 6.21
+18:08:56.875
+Unity
+player speed: 6.13
+18:08:57.166
+Unity
+player speed: 6.11
+18:08:57.167
+Unity
+player speed: 6.03
+18:08:57.167
+Unity
+player speed: 6.02
+18:08:57.445
+Unity
+player speed: 5.95
+18:08:57.445
+Unity
+player speed: 5.87
+18:08:57.446
+Unity
+player speed: 5.88
+18:08:57.654
+Unity
+player speed: 5.82
+18:08:57.654
+Unity
+player speed: 5.83
+18:08:57.876
+Unity
+player speed: 5.77
+18:08:57.890
+Unity
+player speed: 5.78
+18:08:58.168
+Unity
+player speed: 5.73
+18:08:58.196
+Unity
+player speed: 5.69
+18:08:58.197
+Unity
+player speed: 5.66
+18:08:58.378
+Unity
+player speed: 5.65
+18:08:58.378
+Unity
+player speed: 5.63
+18:08:58.586
+Unity
+player speed: 5.62
+18:08:58.587
+Unity
+player speed: 5.61
+18:08:58.795
+Unity
+player speed: 5.6
+18:08:58.796
+Unity
+player speed: 5.58
+18:08:58.990
+Unity
+player speed: 5.59
+18:08:58.991
+Unity
+player speed: 5.57
+18:08:59.199
+Unity
+player speed: 5.58
+18:08:59.200
+Unity
+player speed: 5.57
+18:08:59.422
+Unity
+player speed: 5.56
+18:08:59.423
+Unity
+player speed: 5.55
+18:08:59.714
+Unity
+player speed: 5.56
+18:08:59.756
+Unity
+player speed: 5.55
+18:08:59.757
+Unity
+player speed: 5.56
+18:09:00.021
+Unity
+player speed: 5.55
+18:09:00.022
+Unity
+player speed: 5.54
+18:09:00.022
+Unity
+player speed: 5.53
+18:09:00.216
+Unity
+player speed: 5.52
+18:09:00.217
+Unity
+player speed: 5.53
+18:09:00.426
+Unity
+player speed: 5.52
+18:09:00.439
+Unity
+player speed: 5.51
+18:09:00.632
+Unity
+player speed: 5.49
+18:09:00.633
+Unity
+player speed: 5.5
+18:09:00.841
+Unity
+player speed: 5.49
+18:09:00.842
+Unity
+player speed: 5.46
+18:09:01.357
+Unity
+player speed: 5.49
+18:09:01.357
+Unity
+player speed: 5.46
+18:09:01.358
+Unity
+player speed: 5.45
+18:09:01.511
+Unity
+player speed: 5.46
+18:09:01.512
+Unity
+player speed: 5.43
+18:09:01.512
+Unity
+player speed: 5.4
+18:09:01.513
+Unity
+player speed: 5.39
+18:09:01.649
+Unity
+player speed: 5.36
+18:09:01.650
+Unity
+player speed: 5.37
+18:09:01.858
+Unity
+player speed: 5.35
+18:09:01.859
+Unity
+player speed: 5.32
+18:09:02.067
+Unity
+player speed: 5.34
+18:09:02.068
+Unity
+player speed: 5.31
+18:09:02.290
+Unity
+player speed: 5.27
+18:09:02.290
+Unity
+player speed: 5.3
+18:09:02.610
+Unity
+player speed: 5.26
+18:09:02.624
+Unity
+player speed: 5.22
+18:09:02.625
+Unity
+player speed: 5.25
+18:09:02.888
+Unity
+player speed: 5.22
+18:09:02.903
+Unity
+player speed: 5.18
+18:09:02.903
+Unity
+player speed: 5.2
+18:09:03.209
+Unity
+player speed: 5.17
+18:09:03.209
+Unity
+player speed: 5.13
+18:09:03.210
+Unity
+player speed: 5.14
+18:09:03.515
+Unity
+player speed: 5.07
+18:09:03.516
+Unity
+player speed: 5.09
+18:09:03.516
+Unity
+player speed: 5.02
+18:09:03.835
+Unity
+player speed: 4.96
+18:09:03.836
+Unity
+player speed: 5.04
+18:09:03.837
+Unity
+player speed: 4.97
+18:09:04.183
+Unity
+player speed: 4.9
+18:09:04.184
+Unity
+player speed: 4.97
+18:09:04.197
+Unity
+player speed: 4.92
+18:09:04.420
+Unity
+player speed: 4.86
+18:09:04.421
+Unity
+player speed: 4.88
+18:09:04.422
+Unity
+player speed: 4.89
+18:09:04.629
+Unity
+player speed: 4.81
+18:09:04.629
+Unity
+player speed: 4.78
+18:09:04.949
+Unity
+player speed: 4.84
+18:09:04.950
+Unity
+player speed: 4.76
+18:09:04.950
+Unity
+player speed: 4.69
+18:09:05.144
+Unity
+player speed: 4.82
+18:09:05.145
+Unity
+player speed: 4.85
+18:09:05.464
+Unity
+player speed: 4.93
+18:09:05.465
+Unity
+player speed: 5.1
+18:09:05.465
+Unity
+player speed: 5.2
+18:09:05.757
+Unity
+player speed: 5.25
+18:09:05.757
+Unity
+player speed: 5.4
+18:09:05.758
+Unity
+player speed: 5.44
+18:09:05.758
+Unity
+player speed: 5.45
+18:09:05.952
+Unity
+player speed: 5.49
+18:09:05.952
+Unity
+player speed: 5.5
+18:09:06.161
+Unity
+player speed: 5.52
+18:09:06.161
+Unity
+player speed: 5.54
+18:09:06.369
+Unity
+player speed: 5.55
+18:09:06.370
+Unity
+player speed: 5.56
+18:09:06.578
+Unity
+player speed: 5.55
+18:09:06.579
+Unity
+player speed: 5.56
+18:09:06.774
+Unity
+player speed: 5.57
+18:09:06.788
+Unity
+player speed: 5.56
+18:09:06.983
+Unity
+player speed: 5.59
+18:09:06.997
+Unity
+player speed: 5.6
+18:09:07.192
+Unity
+player speed: 5.63
+18:09:07.192
+Unity
+player speed: 5.62
+18:09:07.401
+Unity
+player speed: 5.66
+18:09:07.415
+Unity
+player speed: 5.69
+18:09:07.721
+Unity
+player speed: 5.74
+18:09:07.722
+Unity
+player speed: 5.79
+18:09:07.722
+Unity
+player speed: 5.8
+18:09:08.027
+Unity
+player speed: 5.93
+18:09:08.041
+Unity
+player speed: 6.08
+18:09:08.055
+Unity
+player speed: 6.15
+18:09:08.347
+Unity
+player speed: 6.13
+18:09:08.348
+Unity
+player speed: 6.27
+18:09:08.348
+Unity
+player speed: 6.33
+18:09:08.612
+Unity
+player speed: 6.31
+18:09:08.626
+Unity
+player speed: 6.25
+18:09:08.627
+Unity
+player speed: 6.55
+18:09:08.821
+Unity
+player speed: 6.59
+18:09:08.821
+Unity
+player speed: 6.57
+18:09:09.031
+Unity
+player speed: 6.48
+18:09:09.044
+Unity
+player speed: 6.73
+18:09:09.239
+Unity
+player speed: 6.8
+18:09:09.239
+Unity
+player speed: 6.81
+18:09:09.545
+Unity
+player speed: 6.7
+18:09:09.559
+Unity
+player speed: 7.07
+18:09:09.560
+Unity
+player speed: 7.04
+18:09:09.865
+Unity
+player speed: 7.07
+18:09:09.866
+Unity
+player speed: 6.93
+18:09:09.866
+Unity
+player speed: 7.52
+18:09:09.867
+Unity
+player speed: 7.69
+18:09:10.158
+Unity
+player speed: 7.64
+18:09:10.158
+Unity
+player speed: 7.56
+18:09:10.159
+Unity
+player speed: 8.12
+18:09:10.450
+Unity
+player speed: 8.35
+18:09:10.450
+Unity
+player speed: 8.19
+18:09:10.451
+Unity
+player speed: 9.02
+18:09:10.673
+Unity
+player speed: 9.64
+18:09:10.673
+Unity
+player speed: 9.72
+18:09:10.868
+Unity
+player speed: 9.49
+18:09:10.868
+Unity
+player speed: 10.37
+18:09:11.048
+Unity
+player speed: 10.31
+18:09:11.049
+Unity
+player speed: 9.99
+18:09:11.271
+Unity
+player speed: 10.18
+18:09:11.286
+Unity
+player speed: 10.48
+18:09:11.481
+Unity
+player speed: 10.61
+18:09:11.495
+Unity
+player speed: 10.32
+18:09:11.689
+Unity
+player speed: 11.52
+18:09:11.690
+Unity
+player speed: 11.66
+18:09:11.884
+Unity
+player speed: 11.34
+18:09:11.885
+Unity
+player speed: 11.23
+18:09:12.093
+Unity
+player speed: 10.73
+18:09:12.093
+Unity
+player speed: 10.61
+18:09:12.413
+Unity
+player speed: 10.2
+18:09:12.414
+Unity
+player speed: 10.03
+18:09:12.414
+Unity
+player speed: 9.76
+18:09:12.608
+Unity
+player speed: 9.48
+18:09:12.609
+Unity
+player speed: 9.36
+18:09:12.817
+Unity
+player speed: 9.01
+18:09:12.818
+Unity
+player speed: 8.96
+18:09:13.012
+Unity
+player speed: 8.62
+18:09:13.040
+Unity
+player speed: 8.56
+18:09:13.221
+Unity
+player speed: 8.31
+18:09:13.222
+Unity
+player speed: 8.2
+18:09:13.458
+Unity
+player speed: 8
+18:09:13.458
+Unity
+player speed: 7.83
+18:09:13.750
+Unity
+player speed: 7.73
+18:09:13.750
+Unity
+player speed: 7.55
+18:09:13.751
+Unity
+player speed: 7.5
+18:09:14.056
+Unity
+player speed: 7.3
+18:09:14.070
+Unity
+player speed: 7.28
+18:09:14.071
+Unity
+player speed: 7.08
+18:09:14.446
+Unity
+player speed: 7.07
+18:09:14.447
+Unity
+player speed: 6.89
+18:09:14.449
+Unity
+player speed: 6.71
+18:09:14.450
+Unity
+player speed: 6.55
+18:09:14.450
+Unity
+player speed: 6.41
+18:09:14.668
+Unity
+player speed: 6.4
+18:09:14.669
+Unity
+player speed: 6.27
+18:09:14.877
+Unity
+player speed: 6.16
+18:09:14.878
+Unity
+player speed: 6.06
+18:09:15.184
+Unity
+player speed: 5.97
+18:09:15.185
+Unity
+player speed: 5.98
+18:09:15.185
+Unity
+player speed: 5.9
+18:09:15.504
+Unity
+player speed: 5.91
+18:09:15.505
+Unity
+player speed: 5.83
+18:09:15.505
+Unity
+player speed: 5.84
+18:09:15.810
+Unity
+player speed: 5.78
+18:09:15.811
+Unity
+player speed: 5.79
+18:09:15.811
+Unity
+player speed: 5.73
+18:09:15.991
+Unity
+player speed: 5.69
+18:09:16.006
+Unity
+player speed: 5.66
+18:09:16.200
+Unity
+player speed: 5.65
+18:09:16.201
+Unity
+player speed: 5.64
+18:09:16.397
+Unity
+player speed: 5.62
+18:09:16.397
+Unity
+player speed: 5.6
+18:09:16.618
+Unity
+player speed: 5.61
+18:09:16.619
+Unity
+player speed: 5.59
+18:09:16.924
+Unity
+player speed: 5.58
+18:09:16.925
+Unity
+player speed: 5.57
+18:09:16.926
+Unity
+player speed: 5.56
+18:09:17.230
+Unity
+player speed: 5.55
+18:09:17.231
+Unity
+player speed: 5.56
+18:09:17.232
+Unity
+player speed: 5.55
+18:09:17.523
+Unity
+player speed: 5.54
+18:09:17.524
+Unity
+player speed: 5.52
+18:09:17.524
+Unity
+player speed: 5.54
+18:09:17.732
+Unity
+player speed: 5.52
+18:09:17.733
+Unity
+player speed: 5.5
+18:09:17.955
+Unity
+player speed: 5.51
+18:09:17.955
+Unity
+player speed: 5.5
+18:09:18.247
+Unity
+player speed: 5.48
+18:09:18.247
+Unity
+player speed: 5.5
+18:09:18.248
+Unity
+player speed: 5.47
+18:09:18.441
+Unity
+player speed: 5.45
+18:09:18.442
+Unity
+player speed: 5.48
+18:09:18.678
+Unity
+player speed: 5.45
+18:09:18.679
+Unity
+player speed: 5.44
+18:09:18.679
+Unity
+player speed: 5.45
+18:09:18.956
+Unity
+player speed: 5.42
+18:09:18.957
+Unity
+player speed: 5.41
+18:09:18.958
+Unity
+player speed: 5.38
+18:09:19.165
+Unity
+player speed: 5.4
+18:09:19.166
+Unity
+player speed: 5.38
+18:09:19.360
+Unity
+player speed: 5.35
+18:09:19.361
+Unity
+player speed: 5.37
+18:09:19.583
+Unity
+player speed: 5.34
+18:09:19.583
+Unity
+player speed: 5.3
+18:09:19.820
+Unity
+player speed: 5.33
+18:09:19.821
+Unity
+player speed: 5.3
+18:09:20.126
+Unity
+player speed: 5.26
+18:09:20.127
+Unity
+player speed: 5.3
+18:09:20.128
+Unity
+player speed: 5.26
+18:09:20.432
+Unity
+player speed: 5.22
+18:09:20.433
+Unity
+player speed: 5.25
+18:09:20.435
+Unity
+player speed: 5.22
+18:09:20.738
+Unity
+player speed: 5.17
+18:09:20.753
+Unity
+player speed: 5.2
+18:09:20.753
+Unity
+player speed: 5.17
+18:09:21.003
+Unity
+player speed: 5.13
+18:09:21.017
+Unity
+player speed: 5.15
+18:09:21.018
+Unity
+player speed: 5.14
+18:09:21.226
+Unity
+player speed: 5.08
+18:09:21.226
+Unity
+player speed: 5.1
+18:09:21.435
+Unity
+player speed: 5.03
+18:09:21.436
+Unity
+player speed: 5
+18:09:21.616
+Unity
+player speed: 5.06
+18:09:21.616
+Unity
+player speed: 4.98
+18:09:21.825
+Unity
+player speed: 4.91
+18:09:21.825
+Unity
+player speed: 5
+18:09:22.047
+Unity
+player speed: 4.94
+18:09:22.048
+Unity
+player speed: 4.89
+18:09:22.353
+Unity
+player speed: 4.92
+18:09:22.367
+Unity
+player speed: 4.9
+18:09:22.368
+Unity
+player speed: 4.83
+18:09:22.645
+Unity
+player speed: 4.87
+18:09:22.646
+Unity
+player speed: 4.79
+18:09:22.647
+Unity
+player speed: 4.7
+18:09:22.840
+Unity
+player speed: 4.8
+18:09:23.216
+Unity
+player speed: 4.74
+18:09:23.216
+Unity
+player speed: 4.68
+18:09:23.217
+Unity
+player speed: 4.69
+18:09:23.217
+Unity
+player speed: 4.73
+18:09:23.271
+Unity
+player speed: 4.63
+18:09:23.369
+Unity
+player speed: 4.53
+18:09:23.508
+Unity
+player speed: 4.64
+18:09:23.522
+Unity
+player speed: 4.59
+18:09:23.815
+Unity
+player speed: 4.52
+18:09:23.815
+Unity
+player speed: 4.53
+18:09:23.816
+Unity
+player speed: 4.58
+18:09:24.107
+Unity
+player speed: 4.48
+18:09:24.108
+Unity
+player speed: 4.4
+18:09:24.108
+Unity
+player speed: 4.48
+18:09:24.414
+Unity
+player speed: 4.47
+18:09:24.414
+Unity
+player speed: 4.37
+18:09:24.415
+Unity
+player speed: 4.27
+18:09:24.706
+Unity
+player speed: 4.39
+18:09:24.707
+Unity
+player speed: 4.34
+18:09:24.707
+Unity
+player speed: 4.26
+18:09:24.999
+Unity
+player speed: 4.32
+18:09:25.012
+Unity
+player speed: 4.23
+18:09:25.013
+Unity
+player speed: 4.16
+18:09:25.319
+Unity
+player speed: 4.18
+18:09:25.333
+Unity
+player speed: 4.23
+18:09:25.334
+Unity
+player speed: 4.12
+18:09:25.653
+Unity
+player speed: 4.04
+18:09:25.654
+Unity
+player speed: 4.1
+18:09:25.655
+Unity
+player speed: 4.15
+18:09:25.919
+Unity
+player speed: 4.03
+18:09:25.932
+Unity
+player speed: 3.93
+18:09:25.933
+Unity
+player speed: 4.01
+18:09:26.127
+Unity
+player speed: 4.05
+18:09:26.128
+Unity
+player speed: 3.93
+18:09:26.323
+Unity
+player speed: 3.84
+18:09:26.337
+Unity
+player speed: 3.9
+18:09:26.531
+Unity
+player speed: 3.95
+18:09:26.546
+Unity
+player speed: 3.83
+18:09:26.740
+Unity
+player speed: 3.75
+18:09:26.741
+Unity
+player speed: 3.78
+18:09:26.963
+Unity
+player speed: 3.83
+18:09:26.964
+Unity
+player speed: 3.74
+18:09:27.297
+Unity
+player speed: 3.66
+18:09:27.298
+Unity
+player speed: 3.71
+18:09:27.299
+Unity
+player speed: 3.66
+18:09:27.299
+Unity
+player speed: 3.56
+18:09:27.548
+Unity
+player speed: 3.44
+18:09:27.562
+Unity
+player speed: 3.6
+18:09:27.563
+Unity
+player speed: 3.61
+18:09:27.771
+Unity
+player speed: 3.48
+18:09:27.771
+Unity
+player speed: 3.39
+18:09:28.007
+Unity
+player speed: 3.47
+18:09:28.008
+Unity
+player speed: 3.52
+18:09:28.328
+Unity
+player speed: 3.42
+18:09:28.328
+Unity
+player speed: 3.33
+18:09:28.329
+Unity
+player speed: 3.3
+18:09:28.606
+Unity
+player speed: 3.38
+18:09:28.607
+Unity
+player speed: 3.26
+18:09:28.608
+Unity
+player speed: 3.17
+18:09:28.898
+Unity
+player speed: 3.24
+18:09:28.899
+Unity
+player speed: 3.29
+18:09:28.900
+Unity
+player speed: 3.21
+18:09:29.107
+Unity
+player speed: 3.11
+18:09:29.121
+Unity
+player speed: 3
+18:09:29.428
+Unity
+player speed: 3.15
+18:09:29.428
+Unity
+player speed: 3.19
+18:09:29.429
+Unity
+player speed: 3.07
+18:09:29.734
+Unity
+player speed: 2.98
+18:09:29.735
+Unity
+player speed: 2.91
+18:09:29.735
+Unity
+player speed: 3.03
+18:09:29.915
+Unity
+player speed: 3.06
+18:09:29.915
+Unity
+player speed: 2.94
+18:09:30.109
+Unity
+player speed: 2.85
+18:09:30.124
+Unity
+player speed: 2.84
+18:09:30.318
+Unity
+player speed: 2.91
+18:09:30.332
+Unity
+player speed: 2.94
+18:09:30.527
+Unity
+player speed: 2.82
+18:09:30.528
+Unity
+player speed: 2.73
+18:09:30.750
+Unity
+player speed: 2.7
+18:09:30.750
+Unity
+player speed: 2.79
+18:09:31.042
+Unity
+player speed: 2.83
+18:09:31.057
+Unity
+player speed: 2.72
+18:09:31.057
+Unity
+player speed: 2.62
+18:09:31.377
+Unity
+player speed: 2.52
+18:09:31.377
+Unity
+player speed: 2.66
+18:09:31.378
+Unity
+player speed: 2.72
+18:09:31.391
+Unity
+player speed: 2.63
+18:09:31.698
+Unity
+player speed: 2.53
+18:09:31.699
+Unity
+player speed: 2.44
+18:09:31.699
+Unity
+player speed: 2.52
+18:09:31.989
+Unity
+player speed: 2.57
+18:09:31.990
+Unity
+player speed: 2.54
+18:09:31.991
+Unity
+player speed: 2.45
+18:09:32.380
+Unity
+player speed: 2.37
+18:09:32.380
+Unity
+player speed: 2.32
+18:09:32.381
+Unity
+player speed: 2.42
+18:09:32.381
+Unity
+player speed: 2.48
+18:09:32.698
+Unity
+player speed: 2.39
+18:09:32.712
+Unity
+player speed: 2.29
+18:09:32.713
+Unity
+player speed: 2.22
+18:09:32.990
+Unity
+player speed: 2.26
+18:09:32.991
+Unity
+player speed: 2.32
+18:09:32.991
+Unity
+player speed: 2.35
+18:09:33.200
+Unity
+player speed: 2.25
+18:09:33.200
+Unity
+player speed: 2.16
+18:09:33.408
+Unity
+player speed: 2.08
+18:09:33.423
+Unity
+player speed: 2.15
+18:09:33.701
+Unity
+player speed: 2.21
+18:09:33.702
+Unity
+player speed: 2.22
+18:09:33.702
+Unity
+player speed: 2.12
+18:09:33.909
+Unity
+player speed: 2.03
+18:09:33.910
+Unity
+player speed: 1.97
+18:09:34.105
+Unity
+player speed: 2.03
+18:09:34.119
+Unity
+player speed: 2.08
+18:09:34.314
+Unity
+player speed: 2.11
+18:09:34.314
+Unity
+player speed: 2.02
+18:09:34.522
+Unity
+player speed: 1.93
+18:09:34.523
+Unity
+player speed: 1.87
+18:09:34.728
+Unity
+player speed: 1.88
+18:09:34.729
+Unity
+player speed: 1.95
+18:09:34.940
+Unity
+player speed: 2
+18:09:34.940
+Unity
+player speed: 1.93
+18:09:35.135
+Unity
+player speed: 1.85
+18:09:35.135
+Unity
+player speed: 1.78
+18:09:35.330
+Unity
+player speed: 1.7
+18:09:35.344
+Unity
+player speed: 1.81
+18:09:35.539
+Unity
+player speed: 1.86
+18:09:35.540
+Unity
+player speed: 1.88
+18:09:35.748
+Unity
+player speed: 1.79
+18:09:35.748
+Unity
+player speed: 1.71
+18:09:35.943
+Unity
+player speed: 1.65
+18:09:35.957
+Unity
+player speed: 1.63
+18:09:35.958
+Unity
+player speed: 1.7
+18:09:36.152
+Unity
+player speed: 1.75
+18:09:36.166
+Unity
+player speed: 1.74
+18:09:36.361
+Unity
+player speed: 1.67
+18:09:36.361
+Unity
+player speed: 1.59
+18:09:36.584
+Unity
+player speed: 1.53
+18:09:36.584
+Unity
+player speed: 1.52
+18:09:36.779
+Unity
+player speed: 1.58
+18:09:36.779
+Unity
+player speed: 1.63
+18:09:37.044
+Unity
+player speed: 1.64
+18:09:37.044
+Unity
+player speed: 1.57
+18:09:37.294
+Unity
+player speed: 1.49
+18:09:37.295
+Unity
+player speed: 1.43
+18:09:37.295
+Unity
+player speed: 1.37
+18:09:37.489
+Unity
+player speed: 1.45
+18:09:37.490
+Unity
+player speed: 1.5
+18:09:37.698
+Unity
+player speed: 1.54
+18:09:37.698
+Unity
+player speed: 1.49
+18:09:37.921
+Unity
+player speed: 1.42
+18:09:37.922
+Unity
+player speed: 1.35
+18:09:38.241
+Unity
+player speed: 1.31
+18:09:38.242
+Unity
+player speed: 1.3
+18:09:38.242
+Unity
+player speed: 1.36
+18:09:38.534
+Unity
+player speed: 1.41
+18:09:38.534
+Unity
+player speed: 1.43
+18:09:38.535
+Unity
+player speed: 1.38
+18:09:38.715
+Unity
+player speed: 1.31
+18:09:38.715
+Unity
+player speed: 1.24
+18:09:38.937
+Unity
+player speed: 1.2
+18:09:38.938
+Unity
+player speed: 1.18
+18:09:39.132
+Unity
+player speed: 1.24
+18:09:39.133
+Unity
+player speed: 1.29
+18:09:39.341
+Unity
+player speed: 1.32
+18:09:39.342
+Unity
+player speed: 1.28
+18:09:39.550
+Unity
+player speed: 1.23
+18:09:39.550
+Unity
+player speed: 1.16
+18:09:39.759
+Unity
+player speed: 1.11
+18:09:39.759
+Unity
+player speed: 1.07
+18:09:40.079
+Unity
+player speed: 1.12
+18:09:40.080
+Unity
+player speed: 1.16
+18:09:40.080
+Unity
+player speed: 1.2
+18:09:40.372
+Unity
+player speed: 1.22
+18:09:40.372
+Unity
+player speed: 1.17
+18:09:40.373
+Unity
+player speed: 1.11
+18:09:40.373
+Unity
+player speed: 1.05
+18:09:40.580
+Unity
+player speed: 1
+18:09:40.594
+Unity
+player speed: 0.97
+18:09:40.901
+Unity
+player speed: 1.01
+18:09:40.901
+Unity
+player speed: 1.05
+18:09:40.902
+Unity
+player speed: 0.75
+18:09:41.847
+Unity
+player speed: 0.39
+18:09:41.848
+Unity
+player speed: 0.09
+18:09:41.849
+Unity
+player speed: 0
+18:09:41.849
+Unity
+player speed: 0.07
+18:09:41.850
+Unity
+player speed: 0.08
+18:09:41.850
+Unity
+player speed: 0.09
+18:09:41.851
+Unity
+player speed: 0.1
+18:09:41.851
+Unity
+player speed: 0.09
